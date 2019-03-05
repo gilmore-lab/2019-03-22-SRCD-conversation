@@ -1,0 +1,178 @@
+---
+title: "SRCD 2019 Conversation Hour"
+subtitle: "Scientific Integrity & Transparency"
+author: "Rick O. Gilmore (Penn State), Chuck Kalish (SRCD), Catherine Tamis-LeMonda (NYU), & Carol Worthman (Emory)"
+output: 
+  revealjs::revealjs_presentation:
+    css: styles.css
+    self_contained: false
+    lib_dir: libs
+    incremental: false
+    theme: simple
+    transition: none
+    reveal_plugins: ["notes", "zoom"]
+    reveal_options:
+      slideNumber: true
+      previewLinks: false
+      center: true
+      touch: true
+---
+
+## Agenda
+
+- Task Force on Scientific Integrity and Openness
+- Task Force accomplishments
+- Researcher concerns
+- Meeting the concerns
+
+# Task Force on Scientific Integrity and Openness (2017-2018)
+
+## Members
+
+- Lisa Braverman (SRCD)
+- Pamela Cole (Penn State); Publications Committee Chair
+- Lisa Gennetian (NYU); Task Force Chair 2017; Associate Editor *Child Development*
+- Rick Gilmore (Penn State); Task Force Chair 2017-2018; Co-Founder/Co-Director [Databrary.org](http://databrary.org)
+
+---
+
+- Chuck Kalish (SRCD)
+- Judith Smetana (Rochester); Editor, *Child Development Perspectives*
+- Catherine Tamis-LeMonda (NYU), Governing Council
+- Marcel van Aken (Utrecht); Executive Committee, ISSBD
+- Suman Verma (Panjab University); SRCD International Affairs Committee
+
+# Activities
+
+## Conflict of Interest (COI) disclosure policy
+
+## Survey of *CD* first authors 
+
+From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ responded.
+
+---
+
+| Question                        | Early career | Senior |
+|---------------------------------|--------------|--------|
+| Any prior experience with posting/sharing data? | 40% | 30% |
+| Does your institution provide resources for preparation/posting of data? | 80% | 80% |
+
+---
+
+| What, if any, of the below concerns do you have about data sharing if *CD* were to require data from published studies be made available to other researchers?  | Early career | Senior |
+|-----------------------------------|--------------|--------|
+| IRB | 50% | 89% |
+| Jeopardizing trust of participants/communities/violating consent | 90% | 77% |
+| Risk of scooping planned research | 50% | 56% |
+| Taking time away from my research | 50% | 56% |
+
+<small>Concerns rated lower in importance: financial cost, fairness/equal partnership, trust in collaboration beyond data sharing.</small>
+
+## Policy statement (adopted 2018-10-26)
+
+---
+
+> "*The advancement of detailed and diverse knowledge about the development of the world’s children is essential for improving the health and well-being of humanity..."
+
+> "*We regard scientific integrity, transparency, and openness as essential for the conduct of research and its application to practice and policy..."
+
+## Guidelines to *Child Development* authors
+
+- Adapted from [Center for Open Science (COS)](http://cos.io) [Transparency & Openness Promotion (TOP) Guidelines](https://cos.io/our-services/top-guidelines/)
+- Sections concerning
+    - Research Materials Transparency
+    - Design and Analysis Transparency
+    - Data and Analytic Methods (Code) Transparency
+    - Citation Standards
+    - Preregistration of Studies and Analysis Plans
+    - Replication
+
+# Researcher concerns
+
+## Increase in risks to participants
+
+- Do participants understand risks?
+- Can confidentiality of shared data be protected?
+- Unforseeable risks of 'indefinite' storage?
+- Can data be truly 'de-identified'?
+
+## Problems for ethics review
+
+- Must minors be reconsented when they reach adulthood?
+- Can future secondary uses be adequately described?
+- Differences among developed/developing world, U.S. vs. Europe, etc.
+
+## Burdens on researchers
+
+- Preparing data & materials to share takes time
+- Inconsistent institutional infrastructure & support
+- Unfair burden on researchers with limited resources?
+- Who bears cost of curation?
+
+## Risks to researchers
+
+- Other researchers will 'scoop' original data collectors
+- Errors will become more readily known and possibly subject to criticism
+- Early adopters will face the brunt
+
+## Risks to researchers
+
+- Openness not yet a widespread criterion for promotion
+- Is 'openness' more important than other evaluative criteria?
+
+## Burdens on reviewers, editors, & publishers
+
+- Must shared analysis code be reviewed alongside manuscript?
+- Must publishers provide infrastructure for sharing?
+
+## Restrictions on scientific innovation & impact
+
+- Mandating preregistration may limit exploratory analyses
+- Do multiple uses of the same data increase the risk of false positive findings
+- Does emphasizing openness devalue diverse modes of scholarship?
+
+# Meeting (many of) the concerns
+
+## Minimizing risks to participants
+
+- Do no harm!
+- Seek explicit consent to share using standard template language
+- Use existing data repositories that offer restricted data sharing
+    - [Databrary](http://databrary.org), [ICPSR](http://icspsr.umich.edu)
+- Consider restricted data sharing even for 'de-identified' data
+
+## Minimizing burdens on researchers
+
+- Prepare to share to avoid *post hoc* hassles
+- Use and support 'free' data repositories (Databrary, ICSPR, OSF)
+- Learn to use reproducible workflows and tools (RMarkdown; Jupyter notebooks)
+
+## Minimizing risks to researchers
+
+- Require citation of data & materials
+- Criticing the work vs. criticizing the worker
+- Recommending, but not requiring materials, data, code sharing
+
+## Minimizing burdens on reviewers, editors, & publishers
+
+- Review of materials, data, code optional
+- Possible partnerships with data repositories
+
+## Minimizing negative impacts on scientific impact & innovation
+
+- Sharing, preregistration, replication recommended and publicized but not required
+- Embracing diversity in scholarship
+
+## More information
+
+Gilmore, R. O., Kennedy, J. L., & Adolph, K. E. (2018). Practical solutions for sharing data and materials From psychological research. *Advances in Methods and Practices in Psychological Science*, *1*(1), 121–130. SAGE Publications Inc. Retrieved from https://doi.org/10.1177/2515245917746500
+
+---
+
+This talk was produced on `r Sys.Date()` in [RStudio](http://rstudio.com) version using R Markdown and the reveal.JS framework.
+The code and materials used to generate the slides may be found at <https://github.com/gilmore-lab/2019-03-22-SRCD-conversation/>.
+Information about the R Session that produced the code is as follows:
+
+```{r session-info}
+sessionInfo()
+```

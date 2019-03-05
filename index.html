@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Rick O. Gilmore (Penn State), Chuck Kalish (SRCD), Catherine Tamis-LeMonda (NYU), &amp; Carol Worthman (Emory)" />
+  <title>SRCD 2019 Conversation Hour</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="libs/reveal.js-3.3.0.1/css/reveal.css"/>
+
+
+<style type="text/css">
+div.sourceCode { overflow-x: auto; }
+table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode {
+  margin: 0; padding: 0; vertical-align: baseline; border: none; }
+table.sourceCode { width: 100%; line-height: 100%; }
+td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; color: #aaaaaa; border-right: 1px solid #aaaaaa; }
+td.sourceCode { padding-left: 5px; }
+code > span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code > span.dt { color: #902000; } /* DataType */
+code > span.dv { color: #40a070; } /* DecVal */
+code > span.bn { color: #40a070; } /* BaseN */
+code > span.fl { color: #40a070; } /* Float */
+code > span.ch { color: #4070a0; } /* Char */
+code > span.st { color: #4070a0; } /* String */
+code > span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code > span.ot { color: #007020; } /* Other */
+code > span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code > span.fu { color: #06287e; } /* Function */
+code > span.er { color: #ff0000; font-weight: bold; } /* Error */
+code > span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+code > span.cn { color: #880000; } /* Constant */
+code > span.sc { color: #4070a0; } /* SpecialChar */
+code > span.vs { color: #4070a0; } /* VerbatimString */
+code > span.ss { color: #bb6688; } /* SpecialString */
+code > span.im { } /* Import */
+code > span.va { color: #19177c; } /* Variable */
+code > span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code > span.op { color: #666666; } /* Operator */
+code > span.bu { } /* BuiltIn */
+code > span.ex { } /* Extension */
+code > span.pp { color: #bc7a00; } /* Preprocessor */
+code > span.at { color: #7d9029; } /* Attribute */
+code > span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code > span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code > span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+</style>
+
+<link rel="stylesheet" href="libs/reveal.js-3.3.0.1/css/theme/simple.css" id="theme">
+
+
+  <!-- some tweaks to reveal css -->
+  <style type="text/css">
+    .reveal h1 { font-size: 2.0em; }
+    .reveal h2 { font-size: 1.5em;  }
+    .reveal h3 { font-size: 1.25em;	}
+    .reveal h4 { font-size: 1em;	}
+
+    .reveal .slides>section,
+    .reveal .slides>section>section {
+      padding: 0px 0px;
+    }
+
+
+
+    .reveal table {
+      border-width: 1px;
+      border-spacing: 2px;
+      border-style: dotted;
+      border-color: gray;
+      border-collapse: collapse;
+      font-size: 0.7em;
+    }
+
+    .reveal table th {
+      border-width: 1px;
+      padding-left: 10px;
+      padding-right: 25px;
+      font-weight: bold;
+      border-style: dotted;
+      border-color: gray;
+    }
+
+    .reveal table td {
+      border-width: 1px;
+      padding-left: 10px;
+      padding-right: 25px;
+      border-style: dotted;
+      border-color: gray;
+    }
+
+
+  </style>
+
+    <style type="text/css">code{white-space: pre;}</style>
+
+    <link rel="stylesheet" href="styles.css"/>
+
+<!-- Printing and PDF exports -->
+<script id="paper-css" type="application/dynamic-css">
+
+/* Default Print Stylesheet Template
+   by Rob Glazebrook of CSSnewbie.com
+   Last Updated: June 4, 2008
+
+   Feel free (nay, compelled) to edit, append, and
+   manipulate this file as you see fit. */
+
+
+@media print {
+
+	/* SECTION 1: Set default width, margin, float, and
+	   background. This prevents elements from extending
+	   beyond the edge of the printed page, and prevents
+	   unnecessary background images from printing */
+	html {
+		background: #fff;
+		width: auto;
+		height: auto;
+		overflow: visible;
+	}
+	body {
+		background: #fff;
+		font-size: 20pt;
+		width: auto;
+		height: auto;
+		border: 0;
+		margin: 0 5%;
+		padding: 0;
+		overflow: visible;
+		float: none !important;
+	}
+
+	/* SECTION 2: Remove any elements not needed in print.
+	   This would include navigation, ads, sidebars, etc. */
+	.nestedarrow,
+	.controls,
+	.fork-reveal,
+	.share-reveal,
+	.state-background,
+	.reveal .progress,
+	.reveal .backgrounds {
+		display: none !important;
+	}
+
+	/* SECTION 3: Set body font face, size, and color.
+	   Consider using a serif font for readability. */
+	body, p, td, li, div {
+		font-size: 20pt!important;
+		font-family: Georgia, "Times New Roman", Times, serif !important;
+		color: #000;
+	}
+
+	/* SECTION 4: Set heading font face, sizes, and color.
+	   Differentiate your headings from your body text.
+	   Perhaps use a large sans-serif for distinction. */
+	h1,h2,h3,h4,h5,h6 {
+		color: #000!important;
+		height: auto;
+		line-height: normal;
+		font-family: Georgia, "Times New Roman", Times, serif !important;
+		text-shadow: 0 0 0 #000 !important;
+		text-align: left;
+		letter-spacing: normal;
+	}
+	/* Need to reduce the size of the fonts for printing */
+	h1 { font-size: 28pt !important;  }
+	h2 { font-size: 24pt !important; }
+	h3 { font-size: 22pt !important; }
+	h4 { font-size: 22pt !important; font-variant: small-caps; }
+	h5 { font-size: 21pt !important; }
+	h6 { font-size: 20pt !important; font-style: italic; }
+
+	/* SECTION 5: Make hyperlinks more usable.
+	   Ensure links are underlined, and consider appending
+	   the URL to the end of the link for usability. */
+	a:link,
+	a:visited {
+		color: #000 !important;
+		font-weight: bold;
+		text-decoration: underline;
+	}
+	/*
+	.reveal a:link:after,
+	.reveal a:visited:after {
+		content: " (" attr(href) ") ";
+		color: #222 !important;
+		font-size: 90%;
+	}
+	*/
+
+
+	/* SECTION 6: more reveal.js specific additions by @skypanther */
+	ul, ol, div, p {
+		visibility: visible;
+		position: static;
+		width: auto;
+		height: auto;
+		display: block;
+		overflow: visible;
+		margin: 0;
+		text-align: left !important;
+	}
+	.reveal pre,
+	.reveal table {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.reveal pre code {
+		padding: 20px;
+		border: 1px solid #ddd;
+	}
+	.reveal blockquote {
+		margin: 20px 0;
+	}
+	.reveal .slides {
+		position: static !important;
+		width: auto !important;
+		height: auto !important;
+
+		left: 0 !important;
+		top: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		padding: 0 !important;
+		zoom: 1 !important;
+
+		overflow: visible !important;
+		display: block !important;
+
+		text-align: left !important;
+		-webkit-perspective: none;
+		   -moz-perspective: none;
+		    -ms-perspective: none;
+		        perspective: none;
+
+		-webkit-perspective-origin: 50% 50%;
+		   -moz-perspective-origin: 50% 50%;
+		    -ms-perspective-origin: 50% 50%;
+		        perspective-origin: 50% 50%;
+	}
+	.reveal .slides section {
+		visibility: visible !important;
+		position: static !important;
+		width: auto !important;
+		height: auto !important;
+		display: block !important;
+		overflow: visible !important;
+
+		left: 0 !important;
+		top: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		padding: 60px 20px !important;
+		z-index: auto !important;
+
+		opacity: 1 !important;
+
+		page-break-after: always !important;
+
+		-webkit-transform-style: flat !important;
+		   -moz-transform-style: flat !important;
+		    -ms-transform-style: flat !important;
+		        transform-style: flat !important;
+
+		-webkit-transform: none !important;
+		   -moz-transform: none !important;
+		    -ms-transform: none !important;
+		        transform: none !important;
+
+		-webkit-transition: none !important;
+		   -moz-transition: none !important;
+		    -ms-transition: none !important;
+		        transition: none !important;
+	}
+	.reveal .slides section.stack {
+		padding: 0 !important;
+	}
+	.reveal section:last-of-type {
+		page-break-after: avoid !important;
+	}
+	.reveal section .fragment {
+		opacity: 1 !important;
+		visibility: visible !important;
+
+		-webkit-transform: none !important;
+		   -moz-transform: none !important;
+		    -ms-transform: none !important;
+		        transform: none !important;
+	}
+	.reveal section img {
+		display: block;
+		margin: 15px 0px;
+		background: rgba(255,255,255,1);
+		border: 1px solid #666;
+		box-shadow: none;
+	}
+
+	.reveal section small {
+		font-size: 0.8em;
+	}
+
+}  
+</script>
+
+
+<script id="pdf-css" type="application/dynamic-css">
+    
+/**
+ * This stylesheet is used to print reveal.js
+ * presentations to PDF.
+ *
+ * https://github.com/hakimel/reveal.js#pdf-export
+ */
+
+* {
+	-webkit-print-color-adjust: exact;
+}
+
+body {
+	margin: 0 auto !important;
+	border: 0;
+	padding: 0;
+	float: none !important;
+	overflow: visible;
+}
+
+html {
+	width: 100%;
+	height: 100%;
+	overflow: visible;
+}
+
+/* Remove any elements not needed in print. */
+.nestedarrow,
+.reveal .controls,
+.reveal .progress,
+.reveal .playback,
+.reveal.overview,
+.fork-reveal,
+.share-reveal,
+.state-background {
+	display: none !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-shadow: 0 0 0 #000 !important;
+}
+
+.reveal pre code {
+	overflow: hidden !important;
+	font-family: Courier, 'Courier New', monospace !important;
+}
+
+ul, ol, div, p {
+	visibility: visible;
+	position: static;
+	width: auto;
+	height: auto;
+	display: block;
+	overflow: visible;
+	margin: auto;
+}
+.reveal {
+	width: auto !important;
+	height: auto !important;
+	overflow: hidden !important;
+}
+.reveal .slides {
+	position: static;
+	width: 100%;
+	height: auto;
+
+	left: auto;
+	top: auto;
+	margin: 0 !important;
+	padding: 0 !important;
+
+	overflow: visible;
+	display: block;
+
+	-webkit-perspective: none;
+	   -moz-perspective: none;
+	    -ms-perspective: none;
+	        perspective: none;
+
+	-webkit-perspective-origin: 50% 50%; /* there isn't a none/auto value but 50-50 is the default */
+	   -moz-perspective-origin: 50% 50%;
+	    -ms-perspective-origin: 50% 50%;
+	        perspective-origin: 50% 50%;
+}
+
+.reveal .slides section {
+	page-break-after: always !important;
+
+	visibility: visible !important;
+	position: relative !important;
+	display: block !important;
+	position: relative !important;
+
+	margin: 0 !important;
+	padding: 0 !important;
+	box-sizing: border-box !important;
+	min-height: 1px;
+
+	opacity: 1 !important;
+
+	-webkit-transform-style: flat !important;
+	   -moz-transform-style: flat !important;
+	    -ms-transform-style: flat !important;
+	        transform-style: flat !important;
+
+	-webkit-transform: none !important;
+	   -moz-transform: none !important;
+	    -ms-transform: none !important;
+	        transform: none !important;
+}
+
+.reveal section.stack {
+	margin: 0 !important;
+	padding: 0 !important;
+	page-break-after: avoid !important;
+	height: auto !important;
+	min-height: auto !important;
+}
+
+.reveal img {
+	box-shadow: none;
+}
+
+.reveal .roll {
+	overflow: visible;
+	line-height: 1em;
+}
+
+/* Slide backgrounds are placed inside of their slide when exporting to PDF */
+.reveal section .slide-background {
+	display: block !important;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: -1;
+}
+
+/* All elements should be above the slide-background */
+.reveal section>* {
+	position: relative;
+	z-index: 1;
+}
+
+/* Display slide speaker notes when 'showNotes' is enabled */
+.reveal .speaker-notes-pdf {
+	display: block;
+	width: 100%;
+	max-height: none;
+	left: auto;
+	top: auto;
+	z-index: 100;
+}
+
+/* Display slide numbers when 'slideNumber' is enabled */
+.reveal .slide-number-pdf {
+	display: block;
+	position: absolute;
+	font-size: 14px;
+}
+
+</script>
+
+
+<script>
+var style = document.createElement( 'style' );
+style.type = 'text/css';
+var style_script_id = window.location.search.match( /print-pdf/gi ) ? 'pdf-css' : 'paper-css';
+var style_script = document.getElementById(style_script_id).text;
+style.innerHTML = style_script;
+document.getElementsByTagName('head')[0].appendChild(style);
+</script>
+
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section>
+    <h1 class="title">SRCD 2019 Conversation Hour</h1>
+  <h1 class="subtitle">Scientific Integrity &amp; Transparency</h1>
+    <h2 class="author">Rick O. Gilmore (Penn State), Chuck Kalish (SRCD), Catherine Tamis-LeMonda (NYU), &amp; Carol Worthman (Emory)</h2>
+</section>
+
+<section id="agenda" class="slide level2">
+<h2>Agenda</h2>
+<ul>
+<li>Task Force on Scientific Integrity and Openness</li>
+<li>Task Force accomplishments</li>
+<li>Researcher concerns</li>
+<li>Meeting the concerns</li>
+</ul>
+</section>
+<section><section id="task-force-on-scientific-integrity-and-openness-2017-2018" class="titleslide slide level1"><h1>Task Force on Scientific Integrity and Openness (2017-2018)</h1></section><section id="members" class="slide level2">
+<h2>Members</h2>
+<ul>
+<li>Lisa Braverman (SRCD)</li>
+<li>Pamela Cole (Penn State); Publications Committee Chair</li>
+<li>Lisa Gennetian (NYU); Task Force Chair 2017; Associate Editor <em>Child Development</em></li>
+<li>Rick Gilmore (Penn State); Task Force Chair 2017-2018; Co-Founder/Co-Director <a href="http://databrary.org">Databrary.org</a></li>
+</ul>
+</section><section class="slide level2">
+
+<ul>
+<li>Chuck Kalish (SRCD)</li>
+<li>Judith Smetana (Rochester); Editor, <em>Child Development Perspectives</em></li>
+<li>Catherine Tamis-LeMonda (NYU), Governing Council</li>
+<li>Marcel van Aken (Utrecht); Executive Committee, ISSBD</li>
+<li>Suman Verma (Panjab University); SRCD International Affairs Committee</li>
+</ul>
+</section></section>
+<section><section id="activities" class="titleslide slide level1"><h1>Activities</h1></section><section id="conflict-of-interest-coi-disclosure-policy" class="slide level2">
+<h2>Conflict of Interest (COI) disclosure policy</h2>
+</section><section id="survey-of-cd-first-authors" class="slide level2">
+<h2>Survey of <em>CD</em> first authors</h2>
+<p>From a six-month period in 2016-2018, <span class="math inline">\(n=36\)</span> authors contacted and <span class="math inline">\(n=24\)</span> responded.</p>
+</section><section class="slide level2">
+
+<table style="width:81%;">
+<colgroup>
+<col style="width: 47%" />
+<col style="width: 20%" />
+<col style="width: 12%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Question</th>
+<th>Early career</th>
+<th>Senior</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Any prior experience with posting/sharing data?</td>
+<td>40%</td>
+<td>30%</td>
+</tr>
+<tr class="even">
+<td>Does your institution provide resources for preparation/posting of data?</td>
+<td>80%</td>
+<td>80%</td>
+</tr>
+</tbody>
+</table>
+</section><section class="slide level2">
+
+<table style="width:83%;">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 20%" />
+<col style="width: 12%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>What, if any, of the below concerns do you have about data sharing if <em>CD</em> were to require data from published studies be made available to other researchers?</th>
+<th>Early career</th>
+<th>Senior</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>IRB</td>
+<td>50%</td>
+<td>89%</td>
+</tr>
+<tr class="even">
+<td>Jeopardizing trust of participants/communities/violating consent</td>
+<td>90%</td>
+<td>77%</td>
+</tr>
+<tr class="odd">
+<td>Risk of scooping planned research</td>
+<td>50%</td>
+<td>56%</td>
+</tr>
+<tr class="even">
+<td>Taking time away from my research</td>
+<td>50%</td>
+<td>56%</td>
+</tr>
+</tbody>
+</table>
+<p><small>Concerns rated lower in importance: financial cost, fairness/equal partnership, trust in collaboration beyond data sharing.</small></p>
+</section><section id="policy-statement-adopted-2018-10-26" class="slide level2">
+<h2>Policy statement (adopted 2018-10-26)</h2>
+</section><section class="slide level2">
+
+<blockquote>
+<p>“*The advancement of detailed and diverse knowledge about the development of the world’s children is essential for improving the health and well-being of humanity…&quot;</p>
+</blockquote>
+<blockquote>
+<p>“*We regard scientific integrity, transparency, and openness as essential for the conduct of research and its application to practice and policy…&quot;</p>
+</blockquote>
+</section><section id="guidelines-to-child-development-authors" class="slide level2">
+<h2>Guidelines to <em>Child Development</em> authors</h2>
+<ul>
+<li>Adapted from <a href="http://cos.io">Center for Open Science (COS)</a> <a href="https://cos.io/our-services/top-guidelines/">Transparency &amp; Openness Promotion (TOP) Guidelines</a></li>
+<li>Sections concerning
+<ul>
+<li>Research Materials Transparency</li>
+<li>Design and Analysis Transparency</li>
+<li>Data and Analytic Methods (Code) Transparency</li>
+<li>Citation Standards</li>
+<li>Preregistration of Studies and Analysis Plans</li>
+<li>Replication</li>
+</ul></li>
+</ul>
+</section></section>
+<section><section id="researcher-concerns" class="titleslide slide level1"><h1>Researcher concerns</h1></section><section id="increase-in-risks-to-participants" class="slide level2">
+<h2>Increase in risks to participants</h2>
+<ul>
+<li>Do participants understand risks?</li>
+<li>Can confidentiality of shared data be protected?</li>
+<li>Unforseeable risks of ‘indefinite’ storage?</li>
+<li>Can data be truly ‘de-identified’?</li>
+</ul>
+</section><section id="problems-for-ethics-review" class="slide level2">
+<h2>Problems for ethics review</h2>
+<ul>
+<li>Must minors be reconsented when they reach adulthood?</li>
+<li>Can future secondary uses be adequately described?</li>
+<li>Differences among developed/developing world, U.S. vs. Europe, etc.</li>
+</ul>
+</section><section id="burdens-on-researchers" class="slide level2">
+<h2>Burdens on researchers</h2>
+<ul>
+<li>Preparing data &amp; materials to share takes time</li>
+<li>Inconsistent institutional infrastructure &amp; support</li>
+<li>Unfair burden on researchers with limited resources?</li>
+<li>Who bears cost of curation?</li>
+</ul>
+</section><section id="risks-to-researchers" class="slide level2">
+<h2>Risks to researchers</h2>
+<ul>
+<li>Other researchers will ‘scoop’ original data collectors</li>
+<li>Errors will become more readily known and possibly subject to criticism</li>
+<li>Early adopters will face the brunt</li>
+</ul>
+</section><section id="risks-to-researchers-1" class="slide level2">
+<h2>Risks to researchers</h2>
+<ul>
+<li>Openness not yet a widespread criterion for promotion</li>
+<li>Is ‘openness’ more important than other evaluative criteria?</li>
+</ul>
+</section><section id="burdens-on-reviewers-editors-publishers" class="slide level2">
+<h2>Burdens on reviewers, editors, &amp; publishers</h2>
+<ul>
+<li>Must shared analysis code be reviewed alongside manuscript?</li>
+<li>Must publishers provide infrastructure for sharing?</li>
+</ul>
+</section><section id="restrictions-on-scientific-innovation-impact" class="slide level2">
+<h2>Restrictions on scientific innovation &amp; impact</h2>
+<ul>
+<li>Mandating preregistration may limit exploratory analyses</li>
+<li>Do multiple uses of the same data increase the risk of false positive findings</li>
+<li>Does emphasizing openness devalue diverse modes of scholarship?</li>
+</ul>
+</section></section>
+<section><section id="meeting-many-of-the-concerns" class="titleslide slide level1"><h1>Meeting (many of) the concerns</h1></section><section id="minimizing-risks-to-participants" class="slide level2">
+<h2>Minimizing risks to participants</h2>
+<ul>
+<li>Do no harm!</li>
+<li>Seek explicit consent to share using standard template language</li>
+<li>Use existing data repositories that offer restricted data sharing
+<ul>
+<li><a href="http://databrary.org">Databrary</a>, <a href="http://icspsr.umich.edu">ICPSR</a></li>
+</ul></li>
+<li>Consider restricted data sharing even for ‘de-identified’ data</li>
+</ul>
+</section><section id="minimizing-burdens-on-researchers" class="slide level2">
+<h2>Minimizing burdens on researchers</h2>
+<ul>
+<li>Prepare to share to avoid <em>post hoc</em> hassles</li>
+<li>Use and support ‘free’ data repositories (Databrary, ICSPR, OSF)</li>
+<li>Learn to use reproducible workflows and tools (RMarkdown; Jupyter notebooks)</li>
+</ul>
+</section><section id="minimizing-risks-to-researchers" class="slide level2">
+<h2>Minimizing risks to researchers</h2>
+<ul>
+<li>Require citation of data &amp; materials</li>
+<li>Criticing the work vs. criticizing the worker</li>
+<li>Recommending, but not requiring materials, data, code sharing</li>
+</ul>
+</section><section id="minimizing-burdens-on-reviewers-editors-publishers" class="slide level2">
+<h2>Minimizing burdens on reviewers, editors, &amp; publishers</h2>
+<ul>
+<li>Review of materials, data, code optional</li>
+<li>Possible partnerships with data repositories</li>
+</ul>
+</section><section id="minimizing-negative-impacts-on-scientific-impact-innovation" class="slide level2">
+<h2>Minimizing negative impacts on scientific impact &amp; innovation</h2>
+<ul>
+<li>Sharing, preregistration, replication recommended and publicized but not required</li>
+<li>Embracing diversity in scholarship</li>
+</ul>
+</section><section id="more-information" class="slide level2">
+<h2>More information</h2>
+<p>Gilmore, R. O., Kennedy, J. L., &amp; Adolph, K. E. (2018). Practical solutions for sharing data and materials From psychological research. <em>Advances in Methods and Practices in Psychological Science</em>, <em>1</em>(1), 121–130. SAGE Publications Inc. Retrieved from <a href="https://doi.org/10.1177/2515245917746500" class="uri">https://doi.org/10.1177/2515245917746500</a></p>
+</section><section class="slide level2">
+
+<p>This talk was produced on 2019-03-05 in <a href="http://rstudio.com">RStudio</a> version using R Markdown and the reveal.JS framework. The code and materials used to generate the slides may be found at <a href="https://github.com/gilmore-lab/2019-03-22-SRCD-conversation/" class="uri">https://github.com/gilmore-lab/2019-03-22-SRCD-conversation/</a>. Information about the R Session that produced the code is as follows:</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">sessionInfo</span>()</code></pre></div>
+<pre><code>## R version 3.5.2 (2018-12-20)
+## Platform: x86_64-apple-darwin15.6.0 (64-bit)
+## Running under: macOS Mojave 10.14.3
+## 
+## Matrix products: default
+## BLAS: /Library/Frameworks/R.framework/Versions/3.5/Resources/lib/libRblas.0.dylib
+## LAPACK: /Library/Frameworks/R.framework/Versions/3.5/Resources/lib/libRlapack.dylib
+## 
+## locale:
+## [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+## 
+## attached base packages:
+## [1] stats     graphics  grDevices utils     datasets  methods   base     
+## 
+## loaded via a namespace (and not attached):
+##  [1] compiler_3.5.2  magrittr_1.5    tools_3.5.2     htmltools_0.3.6
+##  [5] revealjs_0.9    yaml_2.2.0      Rcpp_1.0.0      stringi_1.3.1  
+##  [9] rmarkdown_1.11  knitr_1.21      stringr_1.4.0   xfun_0.4       
+## [13] digest_0.6.18   evaluate_0.13</code></pre>
+</section></section>
+    </div>
+  </div>
+
+  <script src="libs/reveal.js-3.3.0.1/lib/js/head.min.js"></script>
+  <script src="libs/reveal.js-3.3.0.1/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Display the page number of the current slide
+        slideNumber: true,
+        // Push each slide change to the browser history
+        history: true,
+        // Vertical centering of slides
+        center: true,
+        // Enables touch navigation on devices with touch input
+        touch: true,
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+        // Transition style
+        transition: 'none', // none/fade/slide/convex/concave/zoom
+        // Transition style for full page slide backgrounds
+        backgroundTransition: 'default', // none/fade/slide/convex/concave/zoom
+
+
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'libs/reveal.js-3.3.0.1/plugin/notes/notes.js', async: true },
+          { src: 'libs/reveal.js-3.3.0.1/plugin/zoom-js/zoom.js', async: true },
+        ]
+      });
+    </script>
+  <!-- dynamically load mathjax for compatibility with self-contained -->
+  <script>
+    (function () {
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+      document.getElementsByTagName("head")[0].appendChild(script);
+    })();
+  </script>
+
+<script>
+  (function() {
+    if (window.jQuery) {
+      Reveal.addEventListener( 'slidechanged', function(event) {  
+        window.jQuery(event.previousSlide).trigger('hidden');
+        window.jQuery(event.currentSlide).trigger('shown');
+      });
+    }
+  })();
+</script>
+
+
+  </body>
+</html>
