@@ -24,6 +24,7 @@ output:
 - Task Force accomplishments
 - Researcher concerns
 - Meeting the concerns
+- Embracing the future
 
 # Task Force on Scientific Integrity and Openness (2017-2018)
 
@@ -70,11 +71,11 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 ## Policy statement (adopted 2018-10-26)
 
+> "*The advancement of detailed and diverse knowledge about the development of the world’s children is essential for improving the health and well-being of humanity...*"
+
 ---
 
-> "*The advancement of detailed and diverse knowledge about the development of the world’s children is essential for improving the health and well-being of humanity..."
-
-> "*We regard scientific integrity, transparency, and openness as essential for the conduct of research and its application to practice and policy..."
+> "*We regard scientific integrity, transparency, and openness as essential for the conduct of research and its application to practice and policy...*"
 
 ## Guidelines to *Child Development* authors
 
@@ -91,10 +92,10 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 ## Increase in risks to participants
 
-- Do participants understand risks?
 - Can confidentiality of shared data be protected?
 - Unforseeable risks of 'indefinite' storage?
 - Can data be truly 'de-identified'?
+- Do participants understand risks?
 
 ## Problems for ethics review
 
@@ -106,7 +107,7 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 - Preparing data & materials to share takes time
 - Inconsistent institutional infrastructure & support
-- Unfair burden on researchers with limited resources?
+- Unfair burden on researchers with limited resources
 - Who bears cost of curation?
 
 ## Risks to researchers
@@ -141,31 +142,163 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
     - [Databrary](http://databrary.org), [ICPSR](http://icspsr.umich.edu)
 - Consider restricted data sharing even for 'de-identified' data
 
-## Minimizing burdens on researchers
+## Risks to participants
 
-- Prepare to share to avoid *post hoc* hassles
-- Use and support 'free' data repositories (Databrary, ICSPR, OSF)
-- Learn to use reproducible workflows and tools (RMarkdown; Jupyter notebooks)
+| Concern                   | Response                   |
+|---------------------------|----------------------------|
+| Can confidentiality of shared data be protected? | Do no harm! |
+| | Databrary successfully stores *identifiable* video + other data |
+| | Identifiable data sharing requires participant permission |
+| | Repositories 'safer' than individual websites, institutional archives |
+| | Store in repository with restricted access |
+| Unforseeable risks of 'indefinite' storage? | Seek permission to share using standard templates |
+| | Data reuse maximizes benefits of participation |
+
+## Risks to participants
+
+| Concern                   | Response                   |
+|---------------------------|----------------------------|
+| Can data be truly 'de-identified'? | Consider restricted data sharing even for 'de-identified' data |
+| Do participants understand risks? | Perhaps not, but we can minimize |
+| | Risks must be balanced with benefits |
+| | Virtues of standard templates |
+
+## Burdens on researchers
+
+| Concern                   | Response                   |
+|---------------------------|----------------------------|
+| Preparing data & materials to share takes time | Prepare to share |
+| Inconsistent institutional infrastructure & support | Researchers & SRCD can advocate for more support, provide infrastructure & training |
+
+## Burdens on researchers
+
+| Concern                   | Response                   |
+|---------------------------|----------------------------|
+| Unfair burden on researchers with limited resources | SRCD recommends sharing, but does not require |
+| | SRCD training & technical assistance |
+| | Use and support 'free' data repositories (Databrary, ICSPR, OSF) |
+
+## Burdens on researchers
+
+| Concern                   | Response                   |
+|---------------------------|----------------------------|
+| Who bears cost of curation? | Repositories can help |
+| | Need stronger support from funders |
+| | Reproducible workflows and tools (RMarkdown; Jupyter notebooks) make curation easier |
+| | NICHD grants for curation |
+
+## Ethics review
+
+| Concern                   | Response                   |
+|---------------------------|----------------------------|
+| Must minors be reconsented when they reach adulthood? | Open question; NICHD says not if overly burdensome + low risk; But different in EU |
+| Can future secondary uses be adequately described? | Better practice is to specify future uses in generic terms |
+| Differences among developed/developing world, U.S. vs. Europe, etc. | SRCD should work with others toward common standards; Databrary consent one starting point |
 
 ## Minimizing risks to researchers
 
-- Require citation of data & materials
-- Criticing the work vs. criticizing the worker
-- Recommending, but not requiring materials, data, code sharing
+| Concern                   | Response                   |
+|---------------------------|----------------------------|
+| Other researchers will 'scoop' original data collectors | Share when publication goes to press or end of grant period |
+| | Require citation of data & materials |
+| Errors will become more readily known and possibly subject to criticism | Criticing the work vs. criticizing the worker |
+| Early adopters will face the brunt | Recommending, but not requiring materials, data, code sharing | 
 
 ## Minimizing burdens on reviewers, editors, & publishers
 
-- Review of materials, data, code optional
-- Possible partnerships with data repositories
+| Concern                   | Response                   |
+|---------------------------|----------------------------|
+| Must shared analysis code be reviewed alongside manuscript? | Review of materials, data, code optional |
+| Must publishers provide infrastructure for sharing? | Possible partnerships with data repositories |
 
-## Minimizing negative impacts on scientific impact & innovation
+## Impacts on scientific impact and innovation
 
-- Sharing, preregistration, replication recommended and publicized but not required
-- Embracing diversity in scholarship
+| Concern                   | Response                   |
+|---------------------------|----------------------------|
+| Mandating preregistration may limit exploratory analyses | SRCD not requiring preregistration |
+| | Sharing, preregistration, replication recommended and publicized but not required |
+| Do multiple uses of the same data increase the risk of false positive findings | Different analysts may approach same question from different perspectives |
+| | Preregistration can help |
+| Does emphasizing openness devalue diverse modes of scholarship? | SRCD embraces diversity in scholarship |
+| | One size does not fit all |
+
+# Embracing the future
+
+## Research Materials Transparency
+
+> "*Sharing materials used in research in child development, including questionnaires, stimuli, coding systems, and so forth, is vital to maximize the reproducibility of findings, improve scientific rigor, and develop new knowledge.*"
+
+---
+
+> "*...sharing the materials used in research is central to promoting the extension and replication of research results.*"
+
+---
+
+> "*Sharing can also help to promote greater equity by making materials available to researchers who have fewer resources. Thus, SRCD strongly encourages the sharing of research materials with other researchers to the fullest extent possible.*"
+
+## Design and Analysis Transparency
+
+> "*Transparency in the design and analysis of studies is vital even though changes in the context and timing of studies can complicate issues of reproducibility in child development research.*"
+
+---
+
+> "*Authors should fully document participant characteristics, how participants were identified, recruited, and screened; by what criteria they were included or excluded; how and when participants were tested, measured, or observed; what apparatus, equipment, or instruments were employed; how human coders or observers (if any) were trained; and how reliability was estimated; among other facets of research.*"
+
+---
+
+> "*In addition to traditional text- and image-based procedural documentation, video recordings of empirical procedures may improve the transparency of some forms of child development research.*"
+
+## Data and Analytic Methods (Code) Transparency
+
+> "*Widespread sharing of data associated with research in child development accelerates the pace of discovery and improves scientific rigor.*"
+
+---
+
+>"*In some cases, shared data are essential to verify or confirm the specific findings reported in a publication (to demonstrate reproducibility) and can be built upon by other researchers who aggregate findings across the scientific literature (to validate a finding through replication).*"
+
+---
+
+>"*SRCD strongly encourages members and authors in the society's journals to share data openly with other researchers, without restrictions or conditions, whenever doing so poses minimal risks to participants and does not violate contractual obligations (e.g., copyright).*"
+
+---
+
+>"*...it is important to specify how raw data were prepared for statistical analyses; what transformations measures or observations underwent (including scale construction, aggregation levels, outliers); and the steps involved in data analysis. The use of scripts or analysis code make documenting these sorts of data analytic processes more transparent and reproducible. SRCD strongly encourages their use.*"
+
+---
+
+> "*SRCD recognizes that achieving open sharing of diverse types of data will require flexibility based on a variety of considerations including the forms of shared data, participant consent, investigator resources, skill development, institutional barriers or facilitators, and so forth.*"
+
+## Citation Standards
+
+> "*SRCD values diverse forms of research, including those carried out on primary data collected by researchers themselves and on secondary data from data repositories, public or non-public sources (e.g., non-author collaborators), and private or proprietary data.*"
+
+---
+
+> "*Authors should appropriately cite all data sources, program code, materials, and methods used in research.*"
+
+## Preregistration of Studies and Analysis Plans
+
+> "*The preregistration of analysis plans or entire studies can be a powerful way to improve the rigor of certain forms of child development research, especially hypothesis-driven experimental studies. SRCD encourages researchers to preregister analysis plans wherever they are appropriate for their specific questions.*""
+
+---
+
+> "*However, support for preregistration should not be viewed as diminishing the value or importance of thoroughly documented exploratory investigations or descriptive research.*"
+
+## Replication
+
+>"*SRCD recognizes the value of conceptually grounded, well-motivated replications of important findings from empirical studies, particularly of research published in Child Development. Accordingly, the society encourages their submission.*"
+
+---
+
+>"*Changes in the context and timing of studies (e.g. changes in sample characteristics, time of data-collection, etc.) or differences among study populations can complicate questions about the reproducibility and replicability of some forms of child development research. Nevertheless, replication is a standard by which the robustness and validity of certain forms of child development research, especially empirical studies, can be evaluated.*"
 
 ## More information
 
+Adolph, K. E., Gilmore, R. O., & Kennedy, J. L. (2017, October). *Video data and documentation will improve psychological science*. http://www.apa.org. Retrieved August 30, 2018, from http://www.apa.org/science/about/psa/2017/10/video-data.aspx
+
 Gilmore, R. O., Kennedy, J. L., & Adolph, K. E. (2018). Practical solutions for sharing data and materials From psychological research. *Advances in Methods and Practices in Psychological Science*, *1*(1), 121–130. SAGE Publications Inc. Retrieved from https://doi.org/10.1177/2515245917746500
+
+Gilmore, R. O., & Adolph, K. E. (2017). Video can make behavioural science more reproducible. *Nature Human Behavior*, *1*. Retrieved from https://www.nature.com/articles/s41562-017-0128
 
 ---
 
