@@ -69,7 +69,7 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 <small>Concerns rated lower in importance: financial cost, fairness/equal partnership, trust in collaboration beyond data sharing.</small>
 
-## Policy statement (adopted 2018-10-26)
+## [Policy statement](https://www.srcd.org/about-us/policy-scientific-integrity-transparency-and-openness) (adopted 2018-10-26)
 
 > "*The advancement of detailed and diverse knowledge about the development of the world’s children is essential for improving the health and well-being of humanity...*"
 
@@ -77,7 +77,9 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 > "*We regard scientific integrity, transparency, and openness as essential for the conduct of research and its application to practice and policy...*"
 
-## Guidelines to *Child Development* authors
+<https://www.srcd.org/about-us/policy-scientific-integrity-transparency-and-openness>
+
+## [Guidelines](http://srcd.org/author-guidelines-Scientific-Integrity-Openness-ChildDevelopment) for *Child Development* authors
 
 - Adapted from [Center for Open Science (COS)](http://cos.io) [Transparency & Openness Promotion (TOP) Guidelines](https://cos.io/our-services/top-guidelines/)
 - Sections concerning
@@ -87,6 +89,7 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
     - Citation Standards
     - Preregistration of Studies and Analysis Plans
     - Replication
+- <http://srcd.org/author-guidelines-Scientific-Integrity-Openness-ChildDevelopment>
 
 # Researcher concerns
 
@@ -106,15 +109,15 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 ## Burdens on researchers
 
 - Preparing data & materials to share takes time
-- Inconsistent institutional infrastructure & support
 - Unfair burden on researchers with limited resources
+- Inconsistent institutional infrastructure & support
 - Who bears cost of curation?
 
 ## Risks to researchers
 
 - Other researchers will 'scoop' original data collectors
 - Errors will become more readily known and possibly subject to criticism
-- Early adopters will face the brunt
+- Early adopters will bear the brunt
 
 ## Risks to researchers
 
@@ -128,19 +131,19 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 ## Restrictions on scientific innovation & impact
 
-- Mandating preregistration may limit exploratory analyses
+- Mandating preregistration may limit exploratory analyses, constrain 'discovery' science
 - Do multiple uses of the same data increase the risk of false positive findings
 - Does emphasizing openness devalue diverse modes of scholarship?
 
 # Meeting (many of) the concerns
 
-## Minimizing risks to participants
+<!-- ## Minimizing risks to participants -->
 
-- Do no harm!
-- Seek explicit consent to share using standard template language
-- Use existing data repositories that offer restricted data sharing
-    - [Databrary](http://databrary.org), [ICPSR](http://icspsr.umich.edu)
-- Consider restricted data sharing even for 'de-identified' data
+<!-- - Do no harm! -->
+<!-- - Seek explicit consent to share using standard template language -->
+<!-- - Use existing data repositories that offer restricted data sharing -->
+<!--     - [Databrary](http://databrary.org), [ICPSR](http://icspsr.umich.edu) -->
+<!-- - Consider restricted data sharing even for 'de-identified' data -->
 
 ## Risks to participants
 
@@ -294,17 +297,35 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 ## More information
 
-Adolph, K. E., Gilmore, R. O., & Kennedy, J. L. (2017, October). *Video data and documentation will improve psychological science*. http://www.apa.org. Retrieved August 30, 2018, from http://www.apa.org/science/about/psa/2017/10/video-data.aspx
+<https://www.srcd.org/about-us/policy-scientific-integrity-transparency-and-openness>
 
-Gilmore, R. O., Kennedy, J. L., & Adolph, K. E. (2018). Practical solutions for sharing data and materials From psychological research. *Advances in Methods and Practices in Psychological Science*, *1*(1), 121–130. SAGE Publications Inc. Retrieved from https://doi.org/10.1177/2515245917746500
+<http://srcd.org/author-guidelines-Scientific-Integrity-Openness-ChildDevelopment>
 
-Gilmore, R. O., & Adolph, K. E. (2017). Video can make behavioural science more reproducible. *Nature Human Behavior*, *1*. Retrieved from https://www.nature.com/articles/s41562-017-0128
+---
+
+Brakewood, B., & Poldrack, R.A. (2013). The ethics of secondary data analysis: considering the application of Belmont principles to the sharing of neuroimaging data. *NeuroImage*, *82*, 671–676. Retrieved from http://dx.doi.org/10.1016/j.neuroimage.2013.02.040
+
+Gilmore, R.O., Kennedy, J.L., & Adolph, K.E. (2018). Practical solutions for sharing data and materials From psychological research. *Advances in Methods and Practices in Psychological Science*, *1*(1), 121–130. SAGE Publications Inc. Retrieved from https://doi.org/10.1177/2515245917746500
+
+---
+
+Gilmore, R.O., & Adolph, K.E. (2017). Video can make behavioural science more reproducible. *Nature Human Behavior*, *1*. Retrieved from https://www.nature.com/articles/s41562-017-0128
+
+Goodman, S. N., Fanelli, D., & Ioannidis, J. P. A. (2016). What does research reproducibility mean? *Science Translational Medicine*, *8*(341), 341ps12–341ps12. Retrieved October 9, 2016, from http://stm.sciencemag.org/content/8/341/341ps12
+
+---
+
+Mischel, W. (2011). Becoming a cumulative science. *APS Observer*, *22*(1). Retrieved from https://www.psychologicalscience.org/observer/becoming-a-cumulative-science
+
+Peng, R. (2016). A simple explanation for the replication crisis in science · Simply Statistics. Retrieved March 12, 2019, from https://simplystatistics.org/2016/08/24/replication-crisis/
 
 ---
 
 This talk was produced on `r Sys.Date()` in [RStudio](http://rstudio.com) version using R Markdown and the reveal.JS framework.
 The code and materials used to generate the slides may be found at <https://github.com/gilmore-lab/2019-03-22-SRCD-conversation/>.
 Information about the R Session that produced the code is as follows:
+
+---
 
 ```{r session-info}
 sessionInfo()
