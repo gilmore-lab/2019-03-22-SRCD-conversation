@@ -1,7 +1,7 @@
 ---
-title: "SRCD 2019 Conversation Hour"
-subtitle: "Scientific Integrity & Transparency"
-author: "Rick O. Gilmore (Penn State), Chuck Kalish (SRCD), Catherine Tamis-LeMonda (NYU), & Carol Worthman (Emory)"
+title: "SRCD 2019 Conversation Hour on Scientific Integrity & Transparency"
+subtitle: ""
+author: ""
 output: 
   revealjs::revealjs_presentation:
     css: styles.css
@@ -18,6 +18,13 @@ output:
       touch: true
 ---
 
+---
+
+- Rick Gilmore, Penn State/Databrary.org
+- Chuck Kalish, SRCD
+- Catherine Tamis-LeMonda, NYU, SRCD Governing Council
+- Carol Worthman, Emory, SRCD Governing Council
+
 ## Agenda
 
 - Task Force on Scientific Integrity and Openness
@@ -28,7 +35,45 @@ output:
 
 # Task Force on Scientific Integrity and Openness (2017-2018)
 
-## Members
+## Is there a reproducibility crisis in science?
+
+---
+
+- Yes, a significant crisis
+- Yes, a slight crisis
+- No crisis
+- Don't know
+
+---
+
+<div class="centered">
+<img src="http://www.nature.com/polopoly_fs/7.36716.1469695923!/image/reproducibility-graphic-online1.jpeg_gen/derivatives/landscape_630/reproducibility-graphic-online1.jpeg" height=600px>
+</br>
+<small>
+([Baker, 2016](http://doi.org/10.1038/533452a))
+</small>
+</div>
+
+## Have you failed to reproduce an experiment from your lab or someone else's?
+
+---
+
+<div class="centered">
+<img src="http://www.nature.com/polopoly_fs/7.36718.1464174471!/image/reproducibility-graphic-online3.jpg_gen/derivatives/landscape_630/reproducibility-graphic-online3.jpg"" width=700px>
+</br>
+<small>([Baker, 2016](http://doi.org/10.1038/533452a))</small>
+</div>
+
+<div class="notes">
+</div>
+
+## Background
+
+- [Center for Open Science (COS)](http://cos.io) asked SRCD to join the signatories of the [Transparency & Openness Promotion (TOP) Guidelines](https://cos.io/our-services/top-guidelines/)
+- [SRCD Governing Council](https://www.srcd.org/about-us/governance-bylaws/governance-roster) asked [Publications Committee](https://www.srcd.org/about-us/committees/publications) to address the request
+- Given scope and seriousness of the situation, the Publications Committee asked for a task force to be formed
+
+## Task Force Members
 
 - Lisa Braverman (SRCD)
 - Pamela Cole (Penn State); Publications Committee Chair
@@ -47,11 +92,20 @@ output:
 
 ## Conflict of Interest (COI) disclosure policy
 
-## Survey of *CD* first authors 
+- SRCD policy on ScholarOne: <https://mc.manuscriptcentral.com/childdev>
+- Submitting author identifies potential conflicts at submission
+- Each author on an accepted manuscript completes an individual COI form before manuscript can be published
 
-From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ responded.
+## Text recycling/plagiarism
+
+- SRCD publications use iThenticate© to check if text in a manuscript duplicates text in another manuscript
+
+## Survey of *CD* first authors regarding data & materials sharing
+
 
 ---
+
+From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ responded.
 
 | Question                        | Early career | Senior |
 |---------------------------------|--------------|--------|
@@ -67,9 +121,12 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 | Risk of scooping planned research | 50% | 56% |
 | Taking time away from my research | 50% | 56% |
 
+
 <small>Concerns rated lower in importance: financial cost, fairness/equal partnership, trust in collaboration beyond data sharing.</small>
 
-## [Policy statement](https://www.srcd.org/about-us/policy-scientific-integrity-transparency-and-openness) (adopted 2018-10-26)
+## [Policy statement](https://www.srcd.org/about-us/policy-scientific-integrity-transparency-and-openness) (approved 2018-10-26; effective April 1, 2019)
+
+---
 
 > "*The advancement of detailed and diverse knowledge about the development of the world’s children is essential for improving the health and well-being of humanity...*"
 
@@ -79,26 +136,57 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 <https://www.srcd.org/about-us/policy-scientific-integrity-transparency-and-openness>
 
+## What are Scientific Integrity, Openness, & Transparency?
+
+---
+
+>"*By scientific integrity, we mean the 'active adherence to the ethical practices and professional standards essential for the responsible practice of research.'*"
+
+---
+
+>"*Scientific integrity includes the core values of openness, objectivity, fairness, honesty, accountability and stewardship at every step in the scientific enterprise.*"
+
+---
+
+>"*By transparency, we mean the clear, accurate, and complete reporting of all components of scientific research.*"
+
+---
+
+>"*Transparency includes, but is not limited to, reporting the following: participant characteristics, how participants were identified, recruited, and screened, and by what criteria they were included or excluded; how and when participants were tested, measured, or observed...*"
+
+---
+
+>"*...what apparatus, equipment, or instruments were employed; what transformations the measures or observations underwent; what material and financial resources supported the research.*"
+
+---
+
+>"*By openness, we refer to the sharing of scientific resources, such as methods, measures, and data, in order to further scientific advances.*"
+
+---
+
+>"*Scientific openness ranges from provision of materials to other scientists, at no cost or specific obligation, to the depositing of scientific data in data sharing repositories*"
+
 ## [Guidelines](http://srcd.org/author-guidelines-Scientific-Integrity-Openness-ChildDevelopment) for *Child Development* authors
 
 - Adapted from [Center for Open Science (COS)](http://cos.io) [Transparency & Openness Promotion (TOP) Guidelines](https://cos.io/our-services/top-guidelines/)
-- Sections concerning
-    - Research Materials Transparency
-    - Design and Analysis Transparency
-    - Data and Analytic Methods (Code) Transparency
-    - Citation Standards
-    - Preregistration of Studies and Analysis Plans
-    - Replication
 - <http://srcd.org/author-guidelines-Scientific-Integrity-Openness-ChildDevelopment>
 
 # Researcher concerns
 
+## COI Disclosures
+
+- What if I am asked about something that I feel could discriminate against me? For example: My political affiliation
+
+## Text recycling/plagiarism
+
+- I have to repeat text in my method section for the sake of accuracy and precision!
+
 ## Increase in risks to participants
 
-- Can confidentiality of shared data be protected?
-- Unforseeable risks of 'indefinite' storage?
-- Can data be truly 'de-identified'?
-- Do participants understand risks?
+- How can I share data without jeopardizing trust of participants/communities or violating consent?
+- How can confidentiality of shared data be protected?
+- Do participants understand risks of data sharing?
+- How do I talk to participants?
 
 ## Problems for ethics review
 
@@ -115,7 +203,7 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 ## Risks to researchers
 
-- Other researchers will 'scoop' original data collectors
+- Other researchers will 'scoop' me
 - Errors will become more readily known and possibly subject to criticism
 - Early adopters will bear the brunt
 
@@ -137,23 +225,35 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 # Meeting (many of) the concerns
 
-<!-- ## Minimizing risks to participants -->
+## COI policy
 
-<!-- - Do no harm! -->
-<!-- - Seek explicit consent to share using standard template language -->
-<!-- - Use existing data repositories that offer restricted data sharing -->
-<!--     - [Databrary](http://databrary.org), [ICPSR](http://icspsr.umich.edu) -->
-<!-- - Consider restricted data sharing even for 'de-identified' data -->
+| Concern                   | Response                   |
+|---------------------------|----------------------------|
+| What if I am asked about something that I feel could discriminate against me? For example: My political affiliation | Please inform the journal editor of any item on the form that concerns you. SRCD welcomes member input. |
+| | The aim of COI policies is to make science transparent. Identifying potential conflicts increases the perception of transparency & lets readers judge whether the publication is biased. |
+
+## Text recycling/plagiarism
+
+| Concern                   | Response                   |
+|---------------------------|----------------------------|
+| I have to repeat text in my method section for the sake of accuracy and precision! | Make sure repeated text is only that text that requires scientific precision. |
+| | Editors can distinguish between scientifically appropriate duplication, text recycling, and all out plagiarism. |
 
 ## Risks to participants
 
 | Concern                   | Response                   |
 |---------------------------|----------------------------|
-| Can confidentiality of shared data be protected? | Do no harm! |
-| | Databrary successfully stores *identifiable* video + other data |
+| Can confidentiality of shared data be protected? | Yes! |
+| | e.g., Databrary successfully stores *identifiable* video + other data |
 | | Identifiable data sharing requires participant permission |
 | | Repositories 'safer' than individual websites, institutional archives |
 | | Store in repository with restricted access |
+| | e.g., [ICSPR](https://www.icpsr.umich.edu) largest and oldest data repository in social sciences |
+
+---
+
+| Concern                   | Response                   |
+|---------------------------|----------------------------|
 | Unforseeable risks of 'indefinite' storage? | Seek permission to share using standard templates |
 | | Data reuse maximizes benefits of participation |
 
@@ -162,26 +262,32 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 | Concern                   | Response                   |
 |---------------------------|----------------------------|
 | Can data be truly 'de-identified'? | Consider restricted data sharing even for 'de-identified' data |
-| Do participants understand risks? | Perhaps not, but we can minimize |
+
+---
+
+| Concern                   | Response                   |
+|---------------------------|----------------------------|
+| Do participants understand risks? | Perhaps not, but we can minimize risks |
 | | Risks must be balanced with benefits |
-| | Virtues of standard templates |
+| | Many fields have long & successful histories of sharing data |
+| | Virtues of standard templates for seeking permission |
 
 ## Burdens on researchers
 
 | Concern                   | Response                   |
 |---------------------------|----------------------------|
-| Preparing data & materials to share takes time | Prepare to share |
+| Preparing data & materials to share takes time | Prepare to share from the beginning of a study |
 | Inconsistent institutional infrastructure & support | Researchers & SRCD can advocate for more support, provide infrastructure & training |
 
-## Burdens on researchers
+---
 
 | Concern                   | Response                   |
 |---------------------------|----------------------------|
-| Unfair burden on researchers with limited resources | SRCD recommends sharing, but does not require |
+| Unfair burden on researchers with limited resources | SRCD policy recommends sharing, but does not require |
 | | SRCD training & technical assistance |
 | | Use and support 'free' data repositories (Databrary, ICSPR, OSF) |
 
-## Burdens on researchers
+---
 
 | Concern                   | Response                   |
 |---------------------------|----------------------------|
@@ -198,16 +304,22 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 | Can future secondary uses be adequately described? | Better practice is to specify future uses in generic terms |
 | Differences among developed/developing world, U.S. vs. Europe, etc. | SRCD should work with others toward common standards; Databrary consent one starting point |
 
-## Minimizing risks to researchers
+## Risks to researchers
 
 | Concern                   | Response                   |
 |---------------------------|----------------------------|
-| Other researchers will 'scoop' original data collectors | Share when publication goes to press or end of grant period |
+| Other researchers will 'scoop' original me | Share when publication goes to press or end of grant period |
+| | Doesn't seem to happen often in other fields that share data more often. | 
 | | Require citation of data & materials |
-| Errors will become more readily known and possibly subject to criticism | Criticing the work vs. criticizing the worker |
-| Early adopters will face the brunt | Recommending, but not requiring materials, data, code sharing | 
 
-## Minimizing burdens on reviewers, editors, & publishers
+---
+
+| Concern                   | Response                   |
+|---------------------------|----------------------------|
+| Errors will become more readily known and possibly subject to criticism | Criticing the work vs. criticizing the worker |
+| Early adopters will face the brunt | SRCD recommends, but does not require materials, data, code sharing | 
+
+## Burdens on reviewers, editors, & publishers
 
 | Concern                   | Response                   |
 |---------------------------|----------------------------|
@@ -218,16 +330,22 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 | Concern                   | Response                   |
 |---------------------------|----------------------------|
-| Mandating preregistration may limit exploratory analyses | SRCD not requiring preregistration |
-| | Sharing, preregistration, replication recommended and publicized but not required |
+| Mandating preregistration may limit exploratory analyses | Sharing, preregistration, replication recommended and publicized but not required |
 | Do multiple uses of the same data increase the risk of false positive findings | Different analysts may approach same question from different perspectives |
 | | Preregistration can help |
+
+---
+
+| Concern                   | Response                   |
+|---------------------------|----------------------------|
 | Does emphasizing openness devalue diverse modes of scholarship? | SRCD embraces diversity in scholarship |
 | | One size does not fit all |
 
 # Embracing the future
 
 ## Research Materials Transparency
+
+---
 
 > "*Sharing materials used in research in child development, including questionnaires, stimuli, coding systems, and so forth, is vital to maximize the reproducibility of findings, improve scientific rigor, and develop new knowledge.*"
 
@@ -241,17 +359,25 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 ## Design and Analysis Transparency
 
+---
+
 > "*Transparency in the design and analysis of studies is vital even though changes in the context and timing of studies can complicate issues of reproducibility in child development research.*"
 
 ---
 
-> "*Authors should fully document participant characteristics, how participants were identified, recruited, and screened; by what criteria they were included or excluded; how and when participants were tested, measured, or observed; what apparatus, equipment, or instruments were employed; how human coders or observers (if any) were trained; and how reliability was estimated; among other facets of research.*"
+> "*Authors should fully document participant characteristics, how participants were identified, recruited, and screened; by what criteria they were included or excluded; how and when participants were tested, measured, or observed;...*"
+
+---
+
+> *...what apparatus, equipment, or instruments were employed; how human coders or observers (if any) were trained; and how reliability was estimated; among other facets of research.*"
 
 ---
 
 > "*In addition to traditional text- and image-based procedural documentation, video recordings of empirical procedures may improve the transparency of some forms of child development research.*"
 
 ## Data and Analytic Methods (Code) Transparency
+
+---
 
 > "*Widespread sharing of data associated with research in child development accelerates the pace of discovery and improves scientific rigor.*"
 
@@ -265,13 +391,19 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 ---
 
->"*...it is important to specify how raw data were prepared for statistical analyses; what transformations measures or observations underwent (including scale construction, aggregation levels, outliers); and the steps involved in data analysis. The use of scripts or analysis code make documenting these sorts of data analytic processes more transparent and reproducible. SRCD strongly encourages their use.*"
+>"*...it is important to specify how raw data were prepared for statistical analyses; what transformations measures or observations underwent (including scale construction, aggregation levels, outliers); and the steps involved in data analysis...*"
+
+---
+
+> "*...The use of scripts or analysis code makes documenting these sorts of data analytic processes more transparent and reproducible. SRCD strongly encourages their use.*"
 
 ---
 
 > "*SRCD recognizes that achieving open sharing of diverse types of data will require flexibility based on a variety of considerations including the forms of shared data, participant consent, investigator resources, skill development, institutional barriers or facilitators, and so forth.*"
 
 ## Citation Standards
+
+---
 
 > "*SRCD values diverse forms of research, including those carried out on primary data collected by researchers themselves and on secondary data from data repositories, public or non-public sources (e.g., non-author collaborators), and private or proprietary data.*"
 
@@ -281,7 +413,13 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 ## Preregistration of Studies and Analysis Plans
 
-> "*The preregistration of analysis plans or entire studies can be a powerful way to improve the rigor of certain forms of child development research, especially hypothesis-driven experimental studies. SRCD encourages researchers to preregister analysis plans wherever they are appropriate for their specific questions.*""
+---
+
+> "*The preregistration of analysis plans or entire studies can be a powerful way to improve the rigor of certain forms of child development research, especially hypothesis-driven experimental studies.*"
+
+---
+
+>"*SRCD encourages researchers to preregister analysis plans wherever they are appropriate for their specific questions.*"
 
 ---
 
@@ -289,11 +427,17 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 ## Replication
 
+---
+
 >"*SRCD recognizes the value of conceptually grounded, well-motivated replications of important findings from empirical studies, particularly of research published in Child Development. Accordingly, the society encourages their submission.*"
 
 ---
 
->"*Changes in the context and timing of studies (e.g. changes in sample characteristics, time of data-collection, etc.) or differences among study populations can complicate questions about the reproducibility and replicability of some forms of child development research. Nevertheless, replication is a standard by which the robustness and validity of certain forms of child development research, especially empirical studies, can be evaluated.*"
+>"*Changes in the context and timing of studies (e.g. changes in sample characteristics, time of data-collection, etc.) or differences among study populations can complicate questions about the reproducibility and replicability of some forms of child development research...*"
+
+---
+
+>"*Nevertheless, replication is a standard by which the robustness and validity of certain forms of child development research, especially empirical studies, can be evaluated.*"
 
 ## More information
 
@@ -303,19 +447,29 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 ---
 
-Brakewood, B., & Poldrack, R.A. (2013). The ethics of secondary data analysis: considering the application of Belmont principles to the sharing of neuroimaging data. *NeuroImage*, *82*, 671–676. Retrieved from http://dx.doi.org/10.1016/j.neuroimage.2013.02.040
+Brakewood, B., & Poldrack, R.A. (2013). The ethics of secondary data analysis: Considering the application of Belmont principles to the sharing of neuroimaging data. *NeuroImage*, *82*, 671–676. Retrieved from http://dx.doi.org/10.1016/j.neuroimage.2013.02.040
 
-Gilmore, R.O., Kennedy, J.L., & Adolph, K.E. (2018). Practical solutions for sharing data and materials From psychological research. *Advances in Methods and Practices in Psychological Science*, *1*(1), 121–130. SAGE Publications Inc. Retrieved from https://doi.org/10.1177/2515245917746500
+---
+
+Gilmore, R.O., Kennedy, J.L., & Adolph, K.E. (2018). Practical solutions for sharing data and materials from psychological research. *Advances in Methods and Practices in Psychological Science*, *1*(1), 121–130. SAGE Publications Inc. Retrieved from https://doi.org/10.1177/2515245917746500
 
 ---
 
 Gilmore, R.O., & Adolph, K.E. (2017). Video can make behavioural science more reproducible. *Nature Human Behavior*, *1*. Retrieved from https://www.nature.com/articles/s41562-017-0128
+
+---
 
 Goodman, S. N., Fanelli, D., & Ioannidis, J. P. A. (2016). What does research reproducibility mean? *Science Translational Medicine*, *8*(341), 341ps12–341ps12. Retrieved October 9, 2016, from http://stm.sciencemag.org/content/8/341/341ps12
 
 ---
 
 Mischel, W. (2011). Becoming a cumulative science. *APS Observer*, *22*(1). Retrieved from https://www.psychologicalscience.org/observer/becoming-a-cumulative-science
+
+---
+
+Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Sert, N. P. du, Simonsohn, U., et al. (2017). A manifesto for reproducible science. *Nature Human Behaviour*, *1*, 0021. Retrieved January 10, 2017, from http://www.nature.com/articles/s41562-016-0021
+
+---
 
 Peng, R. (2016). A simple explanation for the replication crisis in science · Simply Statistics. Retrieved March 12, 2019, from https://simplystatistics.org/2016/08/24/replication-crisis/
 
