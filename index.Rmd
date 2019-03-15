@@ -25,6 +25,19 @@ output:
 - Catherine Tamis-LeMonda, NYU, SRCD Governing Council
 - Carol Worthman, Emory, SRCD Governing Council
 
+---
+
+```{r qr-code, echo=FALSE, warning=FALSE, message=FALSE}
+if (!require(qrcode)) {
+  install.packages('qrcode')
+}
+talk_url <- 'https://gilmore-lab.github.io/2019-03-22-SRCD-conversation/'
+library(qrcode)
+qrcode::qrcode_gen(talk_url)
+```
+
+`r talk_url`
+
 ## Agenda
 
 - Task Force on Scientific Integrity and Openness
@@ -445,7 +458,9 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 >"*Nevertheless, replication is a standard by which the robustness and validity of certain forms of child development research, especially empirical studies, can be evaluated.*"
 
-## More information
+# More information
+
+## SRCD policies
 
 <https://www.srcd.org/about-us/policy-scientific-integrity-transparency-and-openness>
 
