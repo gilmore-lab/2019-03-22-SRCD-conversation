@@ -42,17 +42,16 @@ qrcode::qrcode_gen(talk_url)
 
 ## Agenda
 
-- Task Force on Scientific Integrity and Openness
-- Task Force accomplishments
-- Researcher concerns
-- Meeting the concerns
-- Embracing the future
+- On reproducibility
+- SRCD responds
+- Issues you've raised
+- Addressing the issues
+- Embracing an open future
+- Continuing the conversation
 
-# Task Force on Scientific Integrity and Openness (2017-2018)
+# On reproducibility
 
 ## Is there a reproducibility crisis in science?
-
----
 
 - Yes, a significant crisis
 - Yes, a slight crisis
@@ -82,11 +81,22 @@ qrcode::qrcode_gen(talk_url)
 <div class="notes">
 </div>
 
-## Background
+## Open science meets developmental research
 
-- [Center for Open Science (COS)](http://cos.io) asked SRCD to join the signatories of the [Transparency & Openness Promotion (TOP) Guidelines](https://cos.io/our-services/top-guidelines/)
+- [Center for Open Science (COS)](http://cos.io) asked SRCD to adopt the [Transparency & Openness Promotion (TOP) Guidelines](https://cos.io/our-services/top-guidelines/)
+
+## [TOP guidelines](https://osf.io/9f6gx/wiki/Guidelines/?_ga=2.38053152.2002511624.1552679823-46593109.1535122819)
+
+- Citation standards
+- Data, analytic methods (code), and research materials transparency
+- Preregistration of studies
+- Pregistration of analysis plans
+- Replication
+
+---
+
 - [SRCD Governing Council](https://www.srcd.org/about-us/governance-bylaws/governance-roster) asked [Publications Committee](https://www.srcd.org/about-us/committees/publications) to address the request
-- Given scope and seriousness of the situation, the Publications Committee asked for a task force to be formed
+- Publications Committee requested a task force be formed
 
 ## Task Force Members
 
@@ -104,20 +114,9 @@ qrcode::qrcode_gen(talk_url)
 - Suman Verma (Panjab University); SRCD International Affairs Committee
 - Carol Worthman (Emory University), Governing Council
 
-# Activities
-
-## Conflict of Interest (COI) disclosure policy
-
-- SRCD policy on ScholarOne: <https://mc.manuscriptcentral.com/childdev>
-- Submitting author identifies potential conflicts at submission
-- Each author on an accepted manuscript completes an individual COI form before manuscript can be published
-
-## Text recycling/plagiarism
-
-- SRCD publications use [iThenticate©](http://www.ithenticate.com/) to check if text in a manuscript duplicates text in another manuscript
+# SRCD responds
 
 ## Survey of *CD* first authors regarding data & materials sharing
-
 
 ---
 
@@ -140,7 +139,17 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 <small>Concerns rated lower in importance: financial cost, fairness/equal partnership, trust in collaboration beyond data sharing.</small>
 
-## [Policy statement](https://www.srcd.org/about-us/policy-scientific-integrity-transparency-and-openness) (approved 2018-10-26; effective April 1, 2019)
+## Motivations for action
+
+- SRCD behind the curve
+- Can build on emerging best practices 
+- Craft policies and procedures tailored to our community 
+- Avoid exacerbating inequity
+
+## New policies (effective April 1, 2019)
+
+- [Guidelines](http://srcd.org/author-guidelines-Scientific-Integrity-Openness-ChildDevelopment) for *Child Development* authors
+- [Policy statement](https://www.srcd.org/about-us/policy-scientific-integrity-transparency-and-openness)
 
 ---
 
@@ -182,20 +191,17 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 >"*Scientific openness ranges from provision of materials to other scientists, at no cost or specific obligation, to the depositing of scientific data in data sharing repositories*"
 
-## [Guidelines](http://srcd.org/author-guidelines-Scientific-Integrity-Openness-ChildDevelopment) for *Child Development* authors
+## Your thoughts?
 
-- Adapted from [Center for Open Science (COS)](http://cos.io) [Transparency & Openness Promotion (TOP) Guidelines](https://cos.io/our-services/top-guidelines/)
-- <http://srcd.org/author-guidelines-Scientific-Integrity-Openness-ChildDevelopment>
+# Issues you've raised
 
-# Researcher concerns
+<!-- ## COI Disclosures -->
 
-## COI Disclosures
+<!-- - What if I am asked about something that I feel could discriminate against me? For example: My political affiliation -->
 
-- What if I am asked about something that I feel could discriminate against me? For example: My political affiliation
+<!-- ## Text recycling/plagiarism -->
 
-## Text recycling/plagiarism
-
-- I have to repeat text in my method section for the sake of accuracy and precision!
+<!-- - I have to repeat text in my method section for the sake of accuracy and precision! -->
 
 ## Increase in risks to participants
 
@@ -208,7 +214,7 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 - Must minors be reconsented when they reach adulthood?
 - Can future secondary uses be adequately described?
-- Differences among developed/developing world, U.S. vs. Europe, etc.
+- What about differences among developed/developing world, U.S. vs. Europe, etc.?
 
 ## Burdens on researchers
 
@@ -219,7 +225,7 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 ## Risks to researchers
 
-- Other researchers will 'scoop' me
+- Won't other researchers 'scoop' me?
 - Errors will become more readily known and possibly subject to criticism
 - Early adopters will bear the brunt
 
@@ -237,30 +243,21 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 - Mandating preregistration may limit exploratory analyses, constrain 'discovery' science
 - Do multiple uses of the same data increase the risk of false positive findings
+
+## Ensuring equity & embracing diversity
+
 - Does emphasizing openness devalue diverse modes of scholarship?
+- How do we avoid disadvantaging scholars from institutions outside Europe and North America?
+- How do we ensure equitable access to data, materials, & expertise?
 
-# Meeting (many of) the concerns
+# Addressing the issues
 
-## COI policy
+## Protecting participants
 
-| Concern                   | Response                   |
-|---------------------------|----------------------------|
-| What if I am asked about something that I feel could discriminate against me? For example: My political affiliation | Please inform the journal editor of any item on the form that concerns you. SRCD welcomes member input. |
-| | The aim of COI policies is to make science transparent. Identifying potential conflicts increases the perception of transparency & lets readers judge whether the publication is biased. |
-
-## Text recycling/plagiarism
-
-| Concern                   | Response                   |
-|---------------------------|----------------------------|
-| I have to repeat text in my method section for the sake of accuracy and precision! | Make sure repeated text is only that text that requires scientific precision. |
-| | Editors can distinguish between scientifically appropriate duplication, text recycling, and all out plagiarism. |
-
-## Risks to participants
-
-| Concern                   | Response                   |
+| Issue                   | Response                   |
 |---------------------------|----------------------------|
 | Can confidentiality of shared data be protected? | Yes! |
-| | e.g., Databrary successfully stores *identifiable* video + other data |
+| | e.g., [Databrary](https://databrary.org) successfully stores *identifiable* video + other data |
 | | Identifiable data sharing requires participant permission |
 | | Repositories 'safer' than individual websites, institutional archives |
 | | Store in repository with restricted access |
@@ -268,42 +265,42 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 ---
 
-| Concern                   | Response                   |
+| Issue                   | Response                   |
 |---------------------------|----------------------------|
 | Unforseeable risks of 'indefinite' storage? | Seek permission to share using standard templates |
 | | Data reuse maximizes benefits of participation |
 
-## Risks to participants
+---
 
-| Concern                   | Response                   |
+| Issue                   | Response                   |
 |---------------------------|----------------------------|
 | Can data be truly 'de-identified'? | Consider restricted data sharing even for 'de-identified' data |
 
 ---
 
-| Concern                   | Response                   |
+| Issue                   | Response                   |
 |---------------------------|----------------------------|
-| Do participants understand risks? | Perhaps not, but we can minimize risks |
-| | Risks must be balanced with benefits |
+| Do participants understand sharing risks? | Perhaps not fully, but we can minimize risks |
+| | Risks must be balanced with benefits  ([Brakewood & Poldrack, 2013](http://dx.doi.org/10.1016/j.neuroimage.2013.02.040))|
 | | Many fields have long & successful histories of sharing data |
 | | Virtues of standard templates for seeking permission |
 
 ---
 
-| Concern                   | Response                   |
+| Issue                   | Response                   |
 |---------------------------|----------------------------|
 | How do I talk to participants about sharing? | Databrary has sample [scripts](https://www.databrary.org/resources/guide/investigators/release/asking/script.html) and [video examples](https://www.databrary.org/resources/guide/investigators/release/asking/examples.html) |
 
-## Burdens on researchers
+## Supporting researchers
 
-| Concern                   | Response                   |
+| Issue                   | Response                   |
 |---------------------------|----------------------------|
 | Preparing data & materials to share takes time | Prepare to share from the beginning of a study |
 | Inconsistent institutional infrastructure & support | Researchers & SRCD can advocate for more support, provide infrastructure & training |
 
 ---
 
-| Concern                   | Response                   |
+| Issue                   | Response                   |
 |---------------------------|----------------------------|
 | Unfair burden on researchers with limited resources | SRCD policy recommends sharing, but does not require |
 | | SRCD training & technical assistance |
@@ -311,46 +308,51 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 ---
 
-| Concern                   | Response                   |
+| Issue                   | Response                   |
 |---------------------------|----------------------------|
 | Who bears cost of curation? | Repositories can help |
 | | Need stronger support from funders |
 | | Reproducible workflows and tools (RMarkdown; Jupyter notebooks) make curation easier |
 | | NICHD grants for curation |
 
-## Ethics review
+## Upholding ethical commitments
 
-| Concern                   | Response                   |
+| Issue                   | Response                   |
 |---------------------------|----------------------------|
 | Must minors be reconsented when they reach adulthood? | Open question; NICHD says not if overly burdensome + low risk; But different in EU |
 | Can future secondary uses be adequately described? | Better practice is to specify future uses in generic terms |
+
+---
+
+| Issue                   | Response                   |
+|---------------------------|----------------------------|
 | Differences among developed/developing world, U.S. vs. Europe, etc. | SRCD should work with others toward common standards; Databrary consent one starting point |
 
-## Risks to researchers
+## Protecting researchers
 
-| Concern                   | Response                   |
+| Issue                   | Response                   |
 |---------------------------|----------------------------|
-| Other researchers will 'scoop' original me | Share when publication goes to press or end of grant period |
+| Other researchers will 'scoop' me | Share when ready (publication goes to press or end of grant period) |
 | | Doesn't seem to happen often in other fields that share data more often. | 
 | | Require citation of data & materials |
 
 ---
 
-| Concern                   | Response                   |
+| Issue                   | Response                   |
 |---------------------------|----------------------------|
 | Errors will become more readily known and possibly subject to criticism | Criticing the work vs. criticizing the worker |
 | Early adopters will face the brunt | SRCD recommends, but does not require materials, data, code sharing | 
 
-## Burdens on reviewers, editors, & publishers
+## Supporting reviewers, editors, & publishers
 
-| Concern                   | Response                   |
+| Issue                   | Response                   |
 |---------------------------|----------------------------|
 | Must shared analysis code be reviewed alongside manuscript? | Review of materials, data, code optional |
 | Must publishers provide infrastructure for sharing? | Possible partnerships with data repositories |
 
-## Impacts on scientific impact and innovation
+## Enhancing scientific impact and accelerating discovery
 
-| Concern                   | Response                   |
+| Issue                   | Response                   |
 |---------------------------|----------------------------|
 | Mandating preregistration may limit exploratory analyses | Sharing, preregistration, replication recommended and publicized but not required |
 | Do multiple uses of the same data increase the risk of false positive findings | Different analysts may approach same question from different perspectives |
@@ -358,12 +360,59 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 ---
 
-| Concern                   | Response                   |
+| Issue                   | Response                   |
 |---------------------------|----------------------------|
 | Does emphasizing openness devalue diverse modes of scholarship? | SRCD embraces diversity in scholarship |
 | | One size does not fit all |
 
-# Embracing the future
+<!-- ## COI policy -->
+
+<!-- | Concern                   | Response                   | -->
+<!-- |---------------------------|----------------------------| -->
+<!-- | What if I am asked about something that I feel could discriminate against me? For example: My political affiliation | Please inform the journal editor of any item on the form that concerns you. SRCD welcomes member input. | -->
+<!-- | | The aim of COI policies is to make science transparent. Identifying potential conflicts increases the perception of transparency & lets readers judge whether the publication is biased. | -->
+
+<!-- ## Text recycling/plagiarism -->
+
+<!-- | Concern                   | Response                   | -->
+<!-- |---------------------------|----------------------------| -->
+<!-- | I have to repeat text in my method section for the sake of accuracy and precision! | Make sure repeated text is only that text that requires scientific precision. | -->
+<!-- | | Editors can distinguish between scientifically appropriate duplication, text recycling, and all out plagiarism. | -->
+
+# Embracing an open future
+
+## This is a conversation
+
+- ...not just for this hour
+- SRCD guidelines recommend but do not require sharing, preregistration, etc.
+- Gathering data for future discussion
+
+## [TOP guidelines](https://osf.io/9f6gx/wiki/Guidelines/?_ga=2.38053152.2002511624.1552679823-46593109.1535122819)
+
+- Citation standards
+- Data, analytic methods (code), and research materials transparency
+- Preregistration of studies
+- Pregistration of analysis plans
+- Replication
+
+## [SRCD's guidelines for CD authors](http://srcd.org/author-guidelines-Scientific-Integrity-Openness-ChildDevelopment)
+
+- Citation standards
+- Research materials transparency
+- Design and analysis transparency
+- Data and analytic methods (code) transparency
+- Preregistration of studies and analysis plans
+- Replication
+
+## Citation Standards
+
+---
+
+> "*SRCD values diverse forms of research, including those carried out on primary data collected by researchers themselves and on secondary data from data repositories, public or non-public sources (e.g., non-author collaborators), and private or proprietary data.*"
+
+---
+
+> "*Authors should appropriately cite all data sources, program code, materials, and methods used in research.*"
 
 ## Research Materials Transparency
 
@@ -423,16 +472,6 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 > "*SRCD recognizes that achieving open sharing of diverse types of data will require flexibility based on a variety of considerations including the forms of shared data, participant consent, investigator resources, skill development, institutional barriers or facilitators, and so forth.*"
 
-## Citation Standards
-
----
-
-> "*SRCD values diverse forms of research, including those carried out on primary data collected by researchers themselves and on secondary data from data repositories, public or non-public sources (e.g., non-author collaborators), and private or proprietary data.*"
-
----
-
-> "*Authors should appropriately cite all data sources, program code, materials, and methods used in research.*"
-
 ## Preregistration of Studies and Analysis Plans
 
 ---
@@ -461,7 +500,17 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 >"*Nevertheless, replication is a standard by which the robustness and validity of certain forms of child development research, especially empirical studies, can be evaluated.*"
 
-# More information
+<!-- ## Conflict of Interest (COI) disclosure policy -->
+
+<!-- - SRCD policy on ScholarOne: <https://mc.manuscriptcentral.com/childdev> -->
+<!-- - Submitting author identifies potential conflicts at submission -->
+<!-- - Each author on an accepted manuscript completes an individual COI form before manuscript can be published -->
+
+<!-- ## Text recycling/plagiarism -->
+
+<!-- - SRCD publications use [iThenticate©](http://www.ithenticate.com/) to check if text in a manuscript duplicates text in another manuscript -->
+
+# Continuing the conversation
 
 ## SRCD policies
 
@@ -469,7 +518,21 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 <http://srcd.org/author-guidelines-Scientific-Integrity-Openness-ChildDevelopment>
 
----
+Also new Conflict of Interest (COI) and text recycling/plagiarims policies for *CD*.
+
+## How can SRCD support members?
+
+<!-- ## Conflict of Interest (COI) disclosure policy -->
+
+<!-- - SRCD policy on ScholarOne: <https://mc.manuscriptcentral.com/childdev> -->
+<!-- - Submitting author identifies potential conflicts at submission -->
+<!-- - Each author on an accepted manuscript completes an individual COI form before manuscript can be published -->
+
+<!-- ## Text recycling/plagiarism -->
+
+<!-- - SRCD publications use [iThenticate©](http://www.ithenticate.com/) to check if text in a manuscript duplicates text in another manuscript -->
+
+## Further reading
 
 Brakewood, B., & Poldrack, R.A. (2013). The ethics of secondary data analysis: Considering the application of Belmont principles to the sharing of neuroimaging data. *NeuroImage*, *82*, 671–676. Retrieved from http://dx.doi.org/10.1016/j.neuroimage.2013.02.040
 
