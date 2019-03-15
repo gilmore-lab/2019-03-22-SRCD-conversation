@@ -16,6 +16,7 @@ output:
       previewLinks: false
       center: true
       touch: true
+      progress: true
 ---
 
 ---
@@ -36,7 +37,7 @@ library(qrcode)
 qrcode::qrcode_gen(talk_url)
 ```
 
-`r talk_url`
+## `r talk_url`
 
 ## Agenda
 
@@ -111,7 +112,7 @@ qrcode::qrcode_gen(talk_url)
 
 ## Text recycling/plagiarism
 
-- SRCD publications use iThenticate© to check if text in a manuscript duplicates text in another manuscript
+- SRCD publications use [iThenticate©](http://www.ithenticate.com/) to check if text in a manuscript duplicates text in another manuscript
 
 ## Survey of *CD* first authors regarding data & materials sharing
 
