@@ -21,6 +21,7 @@ output:
 
 ---
 
+- Lisa Gennetian, NYU, Associate Editor *Child Development*
 - Rick Gilmore, Penn State/Databrary.org
 - Chuck Kalish, SRCD
 - Catherine Tamis-LeMonda, NYU, SRCD Governing Council
@@ -101,6 +102,7 @@ qrcode::qrcode_gen(talk_url)
 - Catherine Tamis-LeMonda (NYU), Governing Council
 - Marcel van Aken (Utrecht); Executive Committee, ISSBD
 - Suman Verma (Panjab University); SRCD International Affairs Committee
+- Carol Worthman (Emory University), Governing Council
 
 # Activities
 
