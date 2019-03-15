@@ -1,5 +1,5 @@
 ---
-title: "SRCD 2019 Conversation Hour on Scientific Integrity & Transparency"
+title: "SRCD 2019 Conversation Hour on Scientific Integrity, Transparency, & Openness"
 subtitle: ""
 author: ""
 output: 
@@ -271,6 +271,12 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 | | Risks must be balanced with benefits |
 | | Many fields have long & successful histories of sharing data |
 | | Virtues of standard templates for seeking permission |
+
+---
+
+| Concern                   | Response                   |
+|---------------------------|----------------------------|
+| How do I talk to participants about sharing? | Databrary has sample [scripts](https://www.databrary.org/resources/guide/investigators/release/asking/script.html) and [video examples](https://www.databrary.org/resources/guide/investigators/release/asking/examples.html) |
 
 ## Burdens on researchers
 
