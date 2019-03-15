@@ -481,7 +481,7 @@ Peng, R. (2016). A simple explanation for the replication crisis in science · S
 
 ---
 
-This talk was produced on `r Sys.Date()` in [RStudio](http://rstudio.com) version using R Markdown and the reveal.JS framework.
+This talk was produced on `r Sys.Date()` in [RStudio](http://rstudio.com) version `1.1.453` using R Markdown and the reveal.JS framework.
 The code and materials used to generate the slides may be found at <https://github.com/gilmore-lab/2019-03-22-SRCD-conversation/>.
 Information about the R Session that produced the code is as follows:
 
