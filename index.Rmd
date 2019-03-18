@@ -44,7 +44,7 @@ qrcode::qrcode_gen(talk_url)
 
 - On reproducibility
 - SRCD responds
-- Issues you've raised
+- Issues
 - Addressing the issues
 - Embracing an open future
 - Continuing the conversation
@@ -193,7 +193,7 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 ## Your thoughts?
 
-# Issues you've raised
+# Issues
 
 <!-- ## COI Disclosures -->
 
@@ -532,9 +532,18 @@ Also new Conflict of Interest (COI) and text recycling/plagiarims policies for *
 
 <!-- - SRCD publications use [iThenticate©](http://www.ithenticate.com/) to check if text in a manuscript duplicates text in another manuscript -->
 
+## Open Science at SRCD 2019
+
+- [Making developmental science more open: Successes, obstacles, and solutions](https://www.srcd.org/srcd19/relevant-day-saturday#OpenScience), Saturday, March 23, 2:30-4:00 pm, Baltimore Convention Center, Room 309
+- [ManyBabies: Bringing large-scale collaborative projects to infant development research](https://convention2.allacademic.com/one/srcd/srcd19/index.php?cmd=Online+Program+View+Session&selected_session_id=1456757&PHPSESSID=di7qb8b3rmpn2liq4t3h8j5706), Saturday, March 23, 12:45-2:15 pm, Hilton Baltimore, Level 2, Key 4
+
 ## Further reading
 
 Brakewood, B., & Poldrack, R.A. (2013). The ethics of secondary data analysis: Considering the application of Belmont principles to the sharing of neuroimaging data. *NeuroImage*, *82*, 671–676. Retrieved from http://dx.doi.org/10.1016/j.neuroimage.2013.02.040
+
+---
+
+Gilmore, R. O. (2016). From big data to deep insight in developmental science. *Wiley Interdisciplinary Reviews: Cognitive Science*, *7*(2), 112–126. Retrieved September 28, 2016, from http://onlinelibrary.wiley.com/doi/10.1002/wcs.1379/full
 
 ---
 
