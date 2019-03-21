@@ -408,97 +408,151 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 ---
 
-> "*SRCD values diverse forms of research, including those carried out on primary data collected by researchers themselves and on secondary data from data repositories, public or non-public sources (e.g., non-author collaborators), and private or proprietary data.*"
+"*SRCD values diverse forms of research, including those carried out on primary data collected by researchers themselves and on secondary data from data repositories, public or non-public sources (e.g., non-author collaborators), and private or proprietary data.*"
 
 ---
 
-> "*Authors should appropriately cite all data sources, program code, materials, and methods used in research.*"
+"*Authors should appropriately cite all data sources, program code, materials, and methods used in research.*"
 
 ## Research Materials Transparency
 
 ---
 
-> "*Sharing materials used in research in child development, including questionnaires, stimuli, coding systems, and so forth, is vital to maximize the reproducibility of findings, improve scientific rigor, and develop new knowledge.*"
+"*Sharing materials used in research in child development, including questionnaires, stimuli, coding systems, and so forth, is vital to maximize the reproducibility of findings, improve scientific rigor, and develop new knowledge.*"
 
 ---
 
-> "*...sharing the materials used in research is central to promoting the extension and replication of research results.*"
+"*...sharing the materials used in research is central to promoting the extension and replication of research results.*"
 
 ---
 
-> "*Sharing can also help to promote greater equity by making materials available to researchers who have fewer resources. Thus, SRCD strongly encourages the sharing of research materials with other researchers to the fullest extent possible.*"
+"*Sharing can also help to promote greater equity by making materials available to researchers who have fewer resources. Thus, SRCD strongly encourages the sharing of research materials with other researchers to the fullest extent possible.*"
+
+---
+
+"*1.	Information about whether or not authors agree to make research materials available is **not** considered as part of the review process but will be collected post-acceptance, prior to publication.*"
+
+---
+
+"*2.	If an author agrees to make research materials available, the author should specify where that material will be made available and for what time period. Ideally materials that are not copyrighted should be placed in free, open repositories (e.g., [Databrary](https://databrary.org), [Dataverse](https://dataverse.org/), [Dryad](https://datadryad.org/), [ICSPR](https://www.icpsr.umich.edu/icpsrweb/), [OpenNeuro](http://openneuro.org), [OSF](http://osf.io)) and given persistent identifiers (e.g., DOI’s) to facilitate their citation and use indefinitely. For materials that are copyrighted, a link to the specific measure should be provided.*"
+
+---
+
+"*3.	Authors agreeing to share research materials should, in the acknowledgments or the first footnote of the published paper, indicate that they will make their research materials available to other researchers and provide information about where the materials may be accessed.*"
+
+---
+
+"*4.	SRCD would like to learn more about the barriers to transparency. Therefore, if research materials are not shared, authors will be asked to provide information during the process of preparing an accepted manuscript for publication about the reasons why research materials are not being shared. That information will be used to evaluate and improve SRCD's policies, practices, and services, and will not be included as part of the final publication.*"
 
 ## Design and Analysis Transparency
 
 ---
 
-> "*Transparency in the design and analysis of studies is vital even though changes in the context and timing of studies can complicate issues of reproducibility in child development research.*"
+"*Transparency in the design and analysis of studies is vital even though changes in the context and timing of studies can complicate issues of reproducibility in child development research.*"
 
 ---
 
-> "*Authors should fully document participant characteristics, how participants were identified, recruited, and screened; by what criteria they were included or excluded; how and when participants were tested, measured, or observed;...*"
+"*Authors should fully document participant characteristics, how participants were identified, recruited, and screened; by what criteria they were included or excluded; how and when participants were tested, measured, or observed;...*"
 
 ---
 
-> *...what apparatus, equipment, or instruments were employed; how human coders or observers (if any) were trained; and how reliability was estimated; among other facets of research.*"
+*...what apparatus, equipment, or instruments were employed; how human coders or observers (if any) were trained; and how reliability was estimated; among other facets of research.*"
 
 ---
 
-> "*In addition to traditional text- and image-based procedural documentation, video recordings of empirical procedures may improve the transparency of some forms of child development research.*"
+"*In addition to traditional text- and image-based procedural documentation, video recordings of empirical procedures may improve the transparency of some forms of child development research.*"
 
 ## Data and Analytic Methods (Code) Transparency
 
 ---
 
-> "*Widespread sharing of data associated with research in child development accelerates the pace of discovery and improves scientific rigor.*"
+"*Widespread sharing of data associated with research in child development accelerates the pace of discovery and improves scientific rigor.*"
 
 ---
 
->"*In some cases, shared data are essential to verify or confirm the specific findings reported in a publication (to demonstrate reproducibility) and can be built upon by other researchers who aggregate findings across the scientific literature (to validate a finding through replication).*"
+"*In some cases, shared data are essential to verify or confirm the specific findings reported in a publication (to demonstrate reproducibility) and can be built upon by other researchers who aggregate findings across the scientific literature (to validate a finding through replication).*"
 
 ---
 
->"*SRCD strongly encourages members and authors in the society's journals to share data openly with other researchers, without restrictions or conditions, whenever doing so poses minimal risks to participants and does not violate contractual obligations (e.g., copyright).*"
+"*SRCD strongly encourages members and authors in the society's journals to share data openly with other researchers, without restrictions or conditions, whenever doing so poses minimal risks to participants and does not violate contractual obligations (e.g., copyright).*"
 
 ---
 
->"*...it is important to specify how raw data were prepared for statistical analyses; what transformations measures or observations underwent (including scale construction, aggregation levels, outliers); and the steps involved in data analysis...*"
+"*...it is important to specify how raw data were prepared for statistical analyses; what transformations measures or observations underwent (including scale construction, aggregation levels, outliers); and the steps involved in data analysis...*"
 
 ---
 
-> "*...The use of scripts or analysis code makes documenting these sorts of data analytic processes more transparent and reproducible. SRCD strongly encourages their use.*"
+"*...The use of scripts or analysis code makes documenting these sorts of data analytic processes more transparent and reproducible. SRCD strongly encourages their use.*"
 
 ---
 
-> "*SRCD recognizes that achieving open sharing of diverse types of data will require flexibility based on a variety of considerations including the forms of shared data, participant consent, investigator resources, skill development, institutional barriers or facilitators, and so forth.*"
+"*SRCD recognizes that achieving open sharing of diverse types of data will require flexibility based on a variety of considerations including the forms of shared data, participant consent, investigator resources, skill development, institutional barriers or facilitators, and so forth.*"
+
+---
+
+"*1.	Information about whether or not authors agree to make data available and/or make their analytic methods available is **not** considered as part of the review process but will be collected post-acceptance, prior to publication.*"
+
+---
+
+"*2.	If an author agrees to make data and/or analytic methods available, the author should specify where that material will be available. The use of free web-based data and materials repository services (e.g., [Databrary](https://databrary.org), [Dataverse](https://dataverse.org/), [Dryad](https://datadryad.org/), [ICSPR](https://www.icpsr.umich.edu/icpsrweb/), [OpenNeuro](http://openneuro.org), [OSF](http://osf.io)) is strongly encouraged. Analytic methods may be shared in a data repository in a code repository like [GitHub](https://github.com), [BitBucket](https://bitbucket.org), or [SourceForge](https://sourceforge.net).*"
+
+---
+
+"*3.	If data and/or analytic methods are not shared, authors will be asked to provide information during the process of preparing an accepted manuscript for publication about the reasons why data and/or analytic methods are not being shared. That information will be used for internal SRCD purposes, and will not be included in the final publication.*"
+
+---
+
+"*4.	Authors agreeing to share data and/or analytic methods (code) should, in the acknowledgments or the first footnote of the published paper, indicate that they will make these materials available to other researchers and provide information about where the materials may be accessed.*"
 
 ## Preregistration of Studies and Analysis Plans
 
 ---
 
-> "*The preregistration of analysis plans or entire studies can be a powerful way to improve the rigor of certain forms of child development research, especially hypothesis-driven experimental studies.*"
+"*The preregistration of analysis plans or entire studies can be a powerful way to improve the rigor of certain forms of child development research, especially hypothesis-driven experimental studies.*"
 
 ---
 
->"*SRCD encourages researchers to preregister analysis plans wherever they are appropriate for their specific questions.*"
+"*SRCD encourages researchers to preregister analysis plans wherever they are appropriate for their specific questions.*"
 
 ---
 
-> "*However, support for preregistration should not be viewed as diminishing the value or importance of thoroughly documented exploratory investigations or descriptive research.*"
+"*However, support for preregistration should not be viewed as diminishing the value or importance of thoroughly documented exploratory investigations or descriptive research.*"
+
+---
+
+"*Preregistration of studies involves registering the study design, variables, and treatment conditions.  Including an analysis plan involves specification of sequence of analyses or the statistical model that will be reported. Authors choosing to preregister should indicate which independent, institutional registry was used (e.g., http://clinicaltrials.gov/, http://socialscienceregistry.org/, http://openscienceframework.org/, http://egap.org/design-registration/, http://ridie.3ieimpact.org/).*"
+
+---
+
+"*1.	Authors should, in acknowledgments or the first footnote, indicate if they did or did not preregister the research with or without an analysis plan in an independent, institutional registry.*"
+
+---
+
+"*2.	Information about whether an analysis plan was or was not preregistered **will** be included in the process of review.*"
+
+---
+
+"*3.	If an author did preregister the research with an analysis plan, the author must*:
+*a.	confirm in the text that the study was registered prior to conducting the research with links to the time-stamped preregistration(s) at the institutional registry, and that the preregistration adheres to the disclosure requirements of the institutional registry or those required for the preregistered badge with analysis plans maintained by the Center for Open Science.*"
+
+---
+
+"*b.	report all preregistered analyses in the text, or, if there were changes in the analysis plan following preregistration, those changes must be disclosed with explanation for the changes.*
+*c.	clearly distinguish in text analyses that were preregistered from those that were not, such as having separate sections in the results for confirmatory and exploratory analyses.*"
 
 ## Replication
 
 ---
 
->"*SRCD recognizes the value of conceptually grounded, well-motivated replications of important findings from empirical studies, particularly of research published in Child Development. Accordingly, the society encourages their submission.*"
+"*SRCD recognizes the value of conceptually grounded, well-motivated replications of important findings from empirical studies, particularly of research published in Child Development. Accordingly, the society encourages their submission.*"
 
 ---
 
->"*Changes in the context and timing of studies (e.g. changes in sample characteristics, time of data-collection, etc.) or differences among study populations can complicate questions about the reproducibility and replicability of some forms of child development research...*"
+"*Changes in the context and timing of studies (e.g. changes in sample characteristics, time of data-collection, etc.) or differences among study populations can complicate questions about the reproducibility and replicability of some forms of child development research...*"
 
 ---
 
->"*Nevertheless, replication is a standard by which the robustness and validity of certain forms of child development research, especially empirical studies, can be evaluated.*"
+"*Nevertheless, replication is a standard by which the robustness and validity of certain forms of child development research, especially empirical studies, can be evaluated.*"
 
 <!-- ## Conflict of Interest (COI) disclosure policy -->
 
