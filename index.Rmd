@@ -153,11 +153,11 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 ---
 
-> "*The advancement of detailed and diverse knowledge about the development of the world’s children is essential for improving the health and well-being of humanity...*"
+"*The advancement of detailed and diverse knowledge about the development of the world’s children is essential for improving the health and well-being of humanity...*"
 
 ---
 
-> "*We regard scientific integrity, transparency, and openness as essential for the conduct of research and its application to practice and policy...*"
+"*We regard scientific integrity, transparency, and openness as essential for the conduct of research and its application to practice and policy...*"
 
 <https://www.srcd.org/about-us/policy-scientific-integrity-transparency-and-openness>
 
@@ -165,31 +165,31 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 
 ---
 
->"*By scientific integrity, we mean the 'active adherence to the ethical practices and professional standards essential for the responsible practice of research.'*"
+"*By scientific integrity, we mean the 'active adherence to the ethical practices and professional standards essential for the responsible practice of research.'*"
 
 ---
 
->"*Scientific integrity includes the core values of openness, objectivity, fairness, honesty, accountability and stewardship at every step in the scientific enterprise.*"
+"*Scientific integrity includes the core values of openness, objectivity, fairness, honesty, accountability and stewardship at every step in the scientific enterprise.*"
 
 ---
 
->"*By transparency, we mean the clear, accurate, and complete reporting of all components of scientific research.*"
+"*By transparency, we mean the clear, accurate, and complete reporting of all components of scientific research.*"
 
 ---
 
->"*Transparency includes, but is not limited to, reporting the following: participant characteristics, how participants were identified, recruited, and screened, and by what criteria they were included or excluded; how and when participants were tested, measured, or observed...*"
+"*Transparency includes, but is not limited to, reporting the following: participant characteristics, how participants were identified, recruited, and screened, and by what criteria they were included or excluded; how and when participants were tested, measured, or observed...*"
 
 ---
 
->"*...what apparatus, equipment, or instruments were employed; what transformations the measures or observations underwent; what material and financial resources supported the research.*"
+"*...what apparatus, equipment, or instruments were employed; what transformations the measures or observations underwent; what material and financial resources supported the research.*"
 
 ---
 
->"*By openness, we refer to the sharing of scientific resources, such as methods, measures, and data, in order to further scientific advances.*"
+"*By openness, we refer to the sharing of scientific resources, such as methods, measures, and data, in order to further scientific advances.*"
 
 ---
 
->"*Scientific openness ranges from provision of materials to other scientists, at no cost or specific obligation, to the depositing of scientific data in data sharing repositories*"
+"*Scientific openness ranges from provision of materials to other scientists, at no cost or specific obligation, to the depositing of scientific data in data sharing repositories*"
 
 ## Your thoughts?
 
@@ -313,7 +313,7 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 | Who bears cost of curation? | Repositories can help |
 | | Need stronger support from funders |
 | | Reproducible workflows and tools (RMarkdown; Jupyter notebooks) make curation easier |
-| | NICHD grants for curation |
+| | NICHD [grants](https://grants.nih.gov/grants/guide/pa-files/PAR-16-149.html) for curation |
 
 ## Upholding ethical commitments
 
@@ -341,7 +341,15 @@ From a six-month period in 2016-2018, $n=36$ authors contacted and $n=24$ respon
 | Issue                   | Response                   |
 |---------------------------|----------------------------|
 | Errors will become more readily known and possibly subject to criticism | Criticing the work vs. criticizing the worker |
-| Early adopters will face the brunt | SRCD recommends, but does not require materials, data, code sharing | 
+| Early adopters will face the brunt | SRCD recommends, but does not require materials, data, code sharing |
+
+---
+
+"*SRCD espouses practices that minimize potential harm to contributing participants, researchers, and the public. The value of minimizing harm takes priority over the values of increased scientific transparency and openness.*"
+
+---
+
+"*SRCD further acknowledges the need to protect researchers from professional harm that can occur when requests for scientific transparency and openness veer into attacks on the integrity of researchers themselves or result in significant, new, or unfunded burdens that limit progress in scholarship.*"
 
 ## Supporting reviewers, editors, & publishers
 
